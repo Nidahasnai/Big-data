@@ -1,447 +1,447 @@
-Kelamin,Kartu Persyaratan yang dimiliki(Pilih salah satu),Tahunlulus ,SekolahAsal,Jurusan,Ranksem4,Rata-ratasem4,Ranksem5,Rata-ratasem5,Rankingsem6,Rata-ratasem6,Namaayah,Statushubungan,PendidikanAyah,PekerjaanAyah,NamaIbu,StatusIbu,PendidikanIbu,PekerjaanIbu,JumlahOrangTinggal,PenghasilanAyah(Rupiah),PenghasilanIbu(Rupiah),Diterima/tdk
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,MAN 1 KOTA BEKASI,IPS,29,85,28,85,28,85,JUNAIDI,Ayah Tiri,SD,Keamanan Rw Setempat,SRI MULYANTI,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,4,1000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Negeri 3 Slawi,IPS,28,835,32,857,0,0,RUNTARIS,Ayah Kandung,SD,Buruh Harian Lepas,YULI ASTUTI,Masih Hidup,SMP,Ibu Rumah Tangga,6,1000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Negeri 1 Slawi,Rekayasa Perangkat Lunak,7,916,10,768,0,0,HASAN,Ayah Kandung,SD,Buruh Harian Lepas,FARIDA ARIANI,Masih Hidup,SD,Ibu Rumah Tangga,3,2700000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA NEGERI 1 KROYA,IPS (ilmu pengetahuan sosial),,818,,83,,,Sayum,Ayah Kandung,SD,Buruh,Ruswati,Masih Hidup,SD,Ibu rumah tangga,4,1500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 18 KABUPATEN TANGERANG,IPA,23,77,21,78,20,81,Dedi Suhaimi,Ayah Kandung,SD,Tidak bekerja,Nurbaya Emawati,Wafat,SMP,Tidak bekerja,6,0,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,Smks Darul Ma'arif,akuntansi,20,83,5,91,8,92,Tanu Siswanto,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Maryati,Masih Hidup,SMA/SMK/sederajat,ibu rumah tangga,10,0,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 2 KOTA MAGELANG ,Rekayasa Perangkat Lunak ,5,94235,6,7708,0,0,CH. Sholikhan Al Mubarok ,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Nurul Afriyani ,Masih Hidup,SMP,Ibu Rumah Tangga,8,3000000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2019,SMK SORE PANGKALPINANG,AKUNTANSI,,835,,8021,,8342,SUYANTO,Ayah Kandung,SMA/SMK/sederajat,Petani,YENTI,Masih Hidup,SMP,Ibu Rumah Tangga,4,2500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMKN 1 BANJAR,AKUNTANSI,,813,,846,,867,SAMSUDIN,Ayah Kandung,SD,BURUH,NINING,Masih Hidup,SD,IBU RUMAH TANGGA,4,2000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,MAN 6 CIAMIS ,Ilmu Ilmu Sosial (IIS/IPS) ,6,82,6,83,5,85,Elom Koharudin,Ayah Kandung,SD,Sudah tidak bekerja,Iah Mariah,Masih Hidup,SD,Tidak bekerja,4,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA NEGERI 2 MAGELANG,Ipa,,826,,843,,841,Agus Supriyadi,Ayah Kandung,SMP,Buruh bangunan,Sudarmi,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,6,1500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Negeri 4 Depok,Jurusan IPS,6,8513,4,8657,,8792,DARMANTO,Ayah Kandung,SMP,Karyawan swasta,SURAMI,Masih Hidup,SMP,Mengurus rumah tangga,4,4000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK NEGERI 9 JAKARTA,Bisnis Daring dan Pemasaran,32,7900,30,809,26,821,Slamet,Ayah Kandung,SMP,Poles Marmer / Kuli Marmer ,Mariyam,Masih Hidup,SD,Ibu rumah tangga,4,2800000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMAN 1 Tambun Utara,IPS,3,83,3,86,3,87,Sarmilih,Ayah Kandung,SMP,Buruh Harian Lepas,Onah,Masih Hidup,Tidak sekolah,Buruh Petani,6,1000000,600000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMAN 10 TASIKMALAYA,IPA,7,84,6,86,5,87,Amin Bunyamin (alm),Ayah Kandung,SMP,TNI-AD,Sriyatun,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,3,0,600000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMA Budi Utomo,IPA,6,84,4,90,4,92,Aris Iriyanto,Ayah Kandung,SMP,Wiraswasta,Sulis Daryati,Masih Hidup,SMP,Ibu rumah tangga,5,2000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA NEGERI 1 PANGKAH,Mipa,9,82,8,84,6,86,Warso,Ayah Kandung,SD,Buruh bangunan,Marniti,Masih Hidup,SD,Ibu rumah tangga,7,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 3 SLAWI,IPA,22,84,9,87,,89,Saepudin,Ayah Kandung,SMA/SMK/sederajat,Buruh Bangunan,Amaliyah Hidayati,Wafat,SMA/SMK/sederajat,tidak bekerja,3,600000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAS DHARMA PUTRA,IPS,3,82,3,835,3,883,RUDOLF MS,Ayah Kandung,SMA/SMK/sederajat,BURUH,SARNIMAH,Masih Hidup,SD,MASAK DIWARUNG MAKAN,2,2000000,500000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMKS BINA MEDIKA,KEPERAWATAN,9,83,17,83,13,85,RAIMAN,Ayah Kandung,SD,BURUH ,ROHANIH,Masih Hidup,SD,Tidak Bekerja,5,2000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMAN 1 MANGUNJAYA,IPA,10,87,12,85,11,87,SAMIRUN,Ayah Kandung,SMP,PETANI,SUKAESIH,Masih Hidup,SMA/SMK/sederajat,GURU HONORER ,4,300000,300000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,PKBM TANDA GENAP DEPOK,IPA,3,84,3,84,3,84,Mustiarti,Ayah Kandung,SD,Wiraswasta,Dewi Yarti,Wafat,SD,Wiraswasta,5,0,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMAS ST GREGORIUS REO,IPS,1,87,1,86,1,88,FITALIS ADI,Ayah Kandung,SD,Petani,ALOYSIA GONSAGA,Masih Hidup,SMA/SMK/sederajat,Petani,4,500000,500000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 MARGASARI,IPA,11,80,11,79,11,81,Sutomo,Ayah Kandung,SMA/SMK/sederajat,Karyawan bumn,Istikomah,Masih Hidup,SD,Ibu rumah tangga,4,2000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,MAN 1 TANGERANG,IPS,6,88,4,89,4,90,Yuli Atmoko,Ayah Kandung,SMA/SMK/sederajat,Buruh,Sri Yunsari,Masih Hidup,SMA/SMK/sederajat,ibu rumah tangga,5,5000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK IPTEK JAKARTA,Administrasi perkantoran,,76,,76,,76,Asril,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Nur Asiyah,Masih Hidup,SMP,Ibu rumah tangga,5,4000000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2020,SMKN 44 Jakarta ,Akuntansi ,15,845,33,855,,89,Jonny Parluhutan Siahaan ,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta ,Een Daenah ,Masih Hidup,SMP,Ibu rumah tangga ,7,3000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMKS PGRI 1 JAKARTA,ADMINISTRASI PERKANTORAN,10,80,13,76,8,89,AGUS SUKARYANTO PUTRO,Ayah Kandung,SMA/SMK/sederajat,PEGAWAI SWASTA,TITI CARDETI,Masih Hidup,SD,IBU RUMAH TANGGA,4,3500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK LPINA JAKARTA,ADMINISTRASI PERKANTORAN,12,80,26,80,12,80,AHMAD SYAMSURI,Ayah Kandung,SD,PEDAGANG,Sutiah,Masih Hidup,SD,Ibu Rumah Tangga,5,500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 JAMPANGKULON,IPS,12,80,10,83,7,87,ANON,Wali,SMP,Petani,Ida Royani,Masih Hidup,SMA/SMK/sederajat,IRT,5,750000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 2 TEGAL,Ips,,82,,8353,,83,Kisyanto,Ayah Kandung,SD,Buruh harian,Lena sutianah,Masih Hidup,SD,Ibu rumah tangga,6,1000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,MAN 3 CILACAP,IPA,5,8157,23,8310,25,8573,Supriyadi,Ayah Kandung,SMA/SMK/sederajat,Petani,Khaniroh,Masih Hidup,SD,Buruh tani,4,200000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMAN 1 PESiSIR SELATAN,IPS ,1,92,1,92,1,92,Jondra Irawan,Ayah Kandung,SMP,Petani,Herneli,Masih Hidup,SD,Mengurus rumah tangga,7,1000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,Sma Negeri 2 BauBau,IPA,0,88,0,89,0,91,Hafilu,Ayah Kandung,SMA/SMK/sederajat,Buruh Harian Lepas,Zamria,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja/ ibu rumah tangga,5,500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMKS PATRIOT 1 BEKASI,Teknik Komputer dan Jaringan,11,789,21,781,23,799,Dita Hadiyanto,Ayah Kandung,SMA/SMK/sederajat,Tidak Bekerja,Tri yanah,Masih Hidup,SMA/SMK/sederajat,Pegawai toko,10,0,2500000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK MUARA INDONESIA,Akuntasi ,1,8066,1,8383,1,8466,BRETT JOHN LOUISE,Ayah Kandung,SMA/SMK/sederajat,Seniman/Guru Musik Honorer,YURI SUGIWATI ,Masih Hidup,S1,Guru Tari Honorer,5,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK CANDA BHIRAWA PARE,DPIB,8,83,6,85,4,86,Rozin,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Basirotin,Masih Hidup,SMP,Tidak bekerja,6,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 1 Adiwerna,TKJ,11,8508,15,8564,,,Ujang,Ayah Kandung,SD,Buruh,Nunung Nurhayati,Masih Hidup,SD,Buruh Art,9,0,1300000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 3 KOTA TEGAL,IPS,9,84,4,87,5,87,Solichin,Ayah Kandung,SMA/SMK/sederajat,Ayah saya bekerja membuat ring/begel besi. (Buruh) ,Sri Handayani,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,4,2000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMA MARDI YUANA,IPS,9,8273,8,83,7,849,EFENDI PASARIBU,Ayah Kandung,SMA/SMK/sederajat,PEDAGANG KECIL,MARLIATI SIMANJUNTAK,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,6,1500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK NEGERI 1 ADIWERNA,TEKNIK KENDARAAN RINGAN,23,84,34,82,35,86,IMAM BASUKI,Ayah Kandung,SMA/SMK/sederajat,TIDAK ADA,M. WULAN ANGGREANI,Masih Hidup,SMA/SMK/sederajat,PEDAGANG,5,0,300000,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMAN 2 TEGAL,IPS,,,,,,,Hartono,Ayah Kandung,SD,Karyawan swasta,Sri Nuryati,Masih Hidup,SMA/SMK/sederajat,IRT,4,1600000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 1 PATOKBEUSI,Rekayasa perangkat lunak,0,8175,0,8325,0,8351,Inang,Ayah Kandung,SD,Buruh tani,Ati,Wafat,SD,-,6,70000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMAN 3 DEPOK,IPS,20,85,18,85,18,85,Suwoto,Ayah Kandung,SD,Satpam,Rohanah,Masih Hidup,SMP,Ibu rumah tangga,3,1000000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMA Negeri 1 Weru,Ilmu Pengetahuan Alam,,79,,81,,82,Djoko Wihartono,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Endang Dwi Astuti,Wafat,SMA/SMK/sederajat,Sudah meninggal,6,3000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMA PGRI CIKAMPEK,IPA,5,83,5,85,5,87,DUDIN ZAENUDIN,Ayah Kandung,SMA/SMK/sederajat,Buruh harian lepas,ROHAENI,Masih Hidup,SD,IRT,4,3000000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 1 CIAWI,IPA,1,924,1,934,1,9406,Dede Sunaryo,Ayah Kandung,SD,Buruh,Elang,Masih Hidup,SD,IRT,4,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,Sman 114 jakarta,Mipa,16,8057,21,8142,17,8314,Albert Kalalo,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Santika,Masih Hidup,SMA/SMK/sederajat,Karyawan swasta,6,0,2500000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 2 Sukabumi,Rekayasa Perangkat Lunak,,89,,90,,,Heri,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Tuti Sukmawati,Masih Hidup,SD,Wiraswasta,6,0,2000000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,smk yp karya bangsa ,akuntansi ,2,8039,2,8147,2,7988,sadeli,Ayah Kandung,SD,pedagang,erni maryani,Masih Hidup,SD,ibu rumah tangga,4,1500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMAN 2 Cikampek,IPA,,804,,817,,848,Toto Sugianto,Ayah Kandung,SD,Tidak Bekerja,Nani Mulyati,Masih Hidup,SMP,Penjual Nasi Uduk,4,0,250000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMK,Akuntansi,,,,,,,Pardi,Ayah Kandung,SD,Kuli bangunan,Siti karyawati ningsih,Masih Hidup,SD,Tidak bekerja,5,2500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMKN 1 Adiwerna,TKRO,24,8418,4,8473,15,8891,Iksanudin,Ayah Kandung,SD,Tukang Batu,Maslikha,Masih Hidup,SMP,Ibu Rumah Tangga,5,1500000,0,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMAN 1 NGABANG,IPS,3,82,4,81,5,77,Mardonius,Ayah Kandung,SMA/SMK/sederajat,Petani padi dan karet,K.erna,Masih Hidup,SMP,Petani,3,1000000,100000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMKN 3 JAKARTA,Administrasi Perkantoran,5,83,1,83,1,84,Teguh Santoso,Ayah Kandung,SMA/SMK/sederajat,Ojek Online,Maryati,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMA Islam Darussalam,Ilmu Pengetahuan Alam,7,80,15,80,17,81,Karim Gede,Ayah Kandung,SMA/SMK/sederajat,tidak bekerja,Nurjanah,Masih Hidup,SD,Wirausaha,4,0,100000,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMKN 1 PATOKBEUSI,Rekayasa Perangkat Lunak,0,81,0,82,0,83,Acep,Ayah Kandung,SD,Serabutan,Euis,Masih Hidup,SD,Ibu Rumah tangga,6,1000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 1 PATOKBEUSI,Rekayasa perangkat lunak,0,81,0,79,0,856,Ahmad,Ayah Kandung,Tidak sekolah,Petani,Carlem,Masih Hidup,SD,Buruh cuci dan Ibu rumah tangga,5,750000,50000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA N 2 SLAWI,IPS,0,8086,0,8126,0,8293,ANSORI,Ayah Kandung,SMP,WIRAUSAHA,EKAWATI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,6,200000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK TARUNA TERPADU 1,Administrasi perkantoran,20,84,20,91,20,92,Supendi,Ayah Kandung,SMP,Penjahit,Manzilah,Wafat,SMP,Sudah wafat,7,30000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 TARAJU,MIPA,10,84,9,85,9,85,Akil Ikin,Ayah Kandung,SD,-,DIOH,Masih Hidup,SD,Pedagang keliling jalan kaki,3,0,300000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,MAN 1 Sukabumi ,IPA,,85,,863,,,DEDI HARIANTO ,Ayah Kandung,SMA/SMK/sederajat,BURUH ,ADE NURLAENI ,Masih Hidup,SMP,Ibu Rumah Tangga ,4,500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Mas. Da'il khairaat,Ips,7,1449,5,1494,4,1677,Sugandi,Ayah Kandung,SMA/SMK/sederajat,Buruh pabrik,Lengga Oktavia,Masih Hidup,SMA/SMK/sederajat,Ibu rumahtangga,5,1750000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 2 KOTA SUKABUMI,MIPA,14,85,11,86,10,89,A. Abdulhak,Ayah Kandung,SD,Buruh Harian Lepas,Entin Kartinah,Masih Hidup,SD,Buruh Harian Lepas,3,650000,200000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMKN 1 Rasau Jaya,Teknik Komputer dan Jaringan,6,75,3,80,3,81,Sujoko,Ayah Kandung,SMA/SMK/sederajat,Buruh,Noriani,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,4,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 BUNGURSARI,MIPA,2,8307,0,836,0,8453,Carda,Ayah Kandung,SMA/SMK/sederajat,Tidak Bekerja,Tira Yulianti,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,500000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2020,SMA SWASTA NURANI PELITA AGUNG,IPS,9,80,8,84,5,86,Eliyudi gulo,Ayah Kandung,SD,-,Etilina Buaya,Masih Hidup,SD,Petani,7,0,1000000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMA Islam An-Nizhomiyah,IPA,11,7505,3,8406,,8552,Basril Latief,Ayah Kandung,SMA/SMK/sederajat,serabutan,Suratniwati,Masih Hidup,SMA/SMK/sederajat,tidak bekerja,9,500000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK AL-MUHAJIRIN,Teknik Komputer dan Jaringan,9,8187,9,8008,11,8367,Matali,Wali,SD,Buruh,Yayah,Masih Hidup,SD,Ibu Rumah Tangga,3,750000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Negeri 3 Kota Tangerang ,Tata Busana,0,80,0,80,0,79,Muhammad Lukman,Ayah Kandung,SMP,Tidak bekerja ,Maryamah ,Masih Hidup,SD,Ibu Rumah Tangga,6,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Negeri 1 Telagasari,MIPA,4,82,6,83,5,85,Toyib,Ayah Kandung,SD,Buruh ,Mamah Fatimah,Masih Hidup,SD,Ibu Rumah Tangga,6,3000000,0,0
-Perempuan,Program Keluarga Harapan (PKH),2021,SMKN 2 POSO,AKOMODASI PERHOTELAN,3,80,4,80,4,85,HERMAN MAMBURA,Ayah Kandung,SMA/SMK/sederajat,PETANI,NELCY PATIKU,Masih Hidup,SMA/SMK/sederajat,PETANI DAN IBU RT,5,3000000,1000000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,MA ASY-SYIFA,IPA,1,872,1,852,1,876,ENGKOS KOSWARA,Ayah Kandung,SMA/SMK/sederajat,BURUH,IIS SUMIARTI,Masih Hidup,SD,IBU RUMAH TANGGA,3,300000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,smkn 1 leuwiliang,multimedia,8,82,11,78,10,80,juli sukarno,Ayah Kandung,SD,buruh tani,kusmiati,Masih Hidup,SMA/SMK/sederajat,ibu rumah tangga,4,2000000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA YASPEN TUGU IBU 1 DEPOK,Ilmu Pengetahuan Sosial,14,843,13,862,11,888,Slamet Riyadi,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Rosyiah,Masih Hidup,SMA/SMK/sederajat,Pedagang,3,0,2000000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK MUHAMMADIYAH 1 JAKARTA,TEHNIK INSTALASI TENAGA LISTRIK,3,794,3,836,3,835,DURAKIM,Ayah Kandung,SD,BURUH,UNIWATI,Masih Hidup,SMP,MENGURUS RUMAH TANGGA,32,4000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 3 PALU,Ips,,,,,,,Benny wala,Ayah Kandung,SMA/SMK/sederajat,Sopir,Fransiska nelwan,Masih Hidup,SMA/SMK/sederajat,URT,7,2000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Pemuda Depok,Administrasi perkantoran,2,84,1,87,2,86,Handy,Ayah Kandung,SMP,Buruh toko,Rohayani,Masih Hidup,SMP,Pegawai swasta,4,900000,3000000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK TERPADU AL ITTIHAD,REKAYASA PERANGKAT LUNAK,5,70,6,70,5,70,ACEP ABDILAH,Ayah Kandung,SMP,0,ELIS NURHAYATI,Masih Hidup,SMP,IBU RUMAH TANGGA,6,0,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 1 Songgom,Teknologi komputer dan jaringan,4,85,4,87,4,85,Tapuri,Ayah Kandung,SD,Petani,Tarnyu,Masih Hidup,SD,Ibu rumah tangga,3,500,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Yaspif Cibuaya,Teknik Komputer dan Jaringan,4,,4,,,,KANIM,Ayah Kandung,SD,Petani,INAH,Masih Hidup,SD,Ibu Rumah Tangga,5,1000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,MAN 2 Kota Sukabumi,IPA,1,8545,3,8845,3,8860,Komar,Ayah Kandung,SD,Buruh Harian Lepas,Aliah,Masih Hidup,SD,Mengurus Rumah Tangga,3,2900000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 3 JAKARTA,Otomatisasi Tata Kelola Perkantoran ,27,80,12,84,10,85,Heru Susanto,Ayah Kandung,D3,Juru Parkir ,Riki Anggraini Royani,Masih Hidup,SMP,Ibu Rumah Tangga,8,250000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 31,DARING,,82,,82,,84,DENI SUTIANDAR,Ayah Kandung,D3,Pegawai Swasta,HANIF LATIFAH,Masih Hidup,SMP,TIDAK BEKERJA,8,4000000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 1 Sukakarya,MIPA,6,83,26,84,20,86,Warja,Ayah Kandung,Tidak sekolah,Petani,Sartika,Masih Hidup,Tidak sekolah,Wirausaha,2,0,300000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA negeri 1 Pabuaran,IPA,7,822,9,8333,9,846,Muhammad suganda,Ayah Tiri,Tidak sekolah,Buruh,Masriah,Masih Hidup,SMP,Buruh,4,20000,2400000,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,MAS ISLAMIYAH,IPA,0,70,0,70,0,75,NURSAAD,Ayah Kandung,SD,PETANI,LILIS,Masih Hidup,SD,MENGURUS ANAK/RUMAH TANGGA,10,0,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 1 CIKAMPEK,Teknik Elektronika Industri,14,80,18,82,14,82,TATA,Ayah Kandung,SD,Buruh,MASIH,Masih Hidup,SD,Ibu Rumah Tangga,4,1750000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2019,SMAN 1 CIOMAS,MIPA,10,83,9,853,8,86,Asep Hasanudin,Ayah Kandung,SMA/SMK/sederajat,Kurir,Yenny Handayani,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,1200000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK YAPPENDA,Akuntansi,5,85,11,85,9,85,Haryanto,Ayah Kandung,SD,Tidak bekerja (Lansia),Hasniah,Masih Hidup,SMP,Ibu Rumah Tangga(memiliki warung kecil),4,0,500,0
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMK N 1 Slawi,Rekayasa Perangkat Lunak,6,8558,1,85,3,855,Chamim,Ayah Kandung,SMA/SMK/sederajat,Tidak Bekerja,Nurkhayatun,Masih Hidup,SMP,Ibu Rumah Tangga,6,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMKN 33 Jakarta,Perhotelan,10,914,15,765,15,772,Suhaemi,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Enimar Daulay,Wafat,SMA/SMK/sederajat,Tidak bekerja,3,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Smk Taruna Bakti Baturraden,TKJ,1,87,1,82,,,Kitam,Ayah Kandung,SD,Buruh Petani,Sarni,Masih Hidup,SD,IRT,4,35000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2020,SMK Negeri 2 Adiwerna,Multimedia,,827,,83,,851,Miskam,Ayah Kandung,SMP,Buruh,Nur Patikha,Masih Hidup,SD,Ibu Rumah Tangga,2,1000000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 3 TEGAL,Multimedia,0,85,0,86,0,85,Jhoni Tiwa,Ayah Kandung,SMP,Sopir,Masringah,Masih Hidup,SD,Tidak bekerja,4,500000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2019,smk negeri 1 purwokerto,pemasaran,19,79,11,81,6,84,kuat narsito,Ayah Kandung,SMP,karyawan swasta,mujiani ,Masih Hidup,SMA/SMK/sederajat,ibu rumah tangga,6,1800000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,Smkn 51 jakarta,Akuntansi dan keuangan lembaga,13,81,10,85,11,84,Rinaldo mayaut,Ayah Kandung,SMA/SMK/sederajat,Penjaga bengkel showroon ,Lisye Mayaut,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,6,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK TI MUHAMMADIYAH CIKAMPEK ,Teknik Bisnis Sepeda Motor ,0,945,2,977,2,993,Idris wahyudi ,Ayah Kandung,SMP,Tukang ojek ,Darmi sumarni ,Masih Hidup,SD,Berjualan ayam bakar,5,70000,100000,1
-Perempuan,Program Keluarga Harapan (PKH),2021,SMA YAPERJASA,IPS,1,87,1,87,1,83,RACHMAD,Ayah Kandung,SMA/SMK/sederajat,DRIVER OJOL,ANITA,Masih Hidup,SMA/SMK/sederajat,ART ( Asisten Rumah Tangga) ,4,1500000,1000000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Letris Indonesia 1,Akuntansi,4,8536,1,8554,3,88,Rahmat,Ayah Kandung,SD,Buruh (bangunan),Maryanih,Masih Hidup,SD,Asisten rumah tangga,5,3000000,1000000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2019,SMAN 3 CIKAMPEK,IPA,19,81,16,83,13,85,IIM ABDURROHIM,Ayah Kandung,SMA/SMK/sederajat,WIRASWASTA,RATNA KURNIASARI,Masih Hidup,S1,GURU TK,4,1500000,500000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA TAMAN MADYA 5 JAKARTA,IPS,,,,,,,Achmad Yani,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Ismiati,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,3,3000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMA N 01 NEGERI BESAR,MIPA,2,847,2,845,2,854,Sriyati,Ayah Kandung,SD,Tidak bekerja (sakit stroke),Sriyati,Masih Hidup,Tidak sekolah,Tani ,6,0,500000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,MADRASAH ALIYAH NEGERI 16 JAKARTA,IPA,5,92,4,95,5,93,DAHURI,Ayah Kandung,SMP,Buruh harian ,NURHAYATI,Masih Hidup,SMP,Ibu rumah tangga,4,3000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMA Plus PGRI Cibinong,Ips,9,84,7,87,5,89,Deni Andrian,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Erna Ratna Ningsih,Masih Hidup,SMA/SMK/sederajat,Pengasuh,5,0,800000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMK NURUL IMAN,AKUNTANSI,0,85,0,83,0,85,(ALM) SUKARDJO,Ayah Kandung,SMA/SMK/sederajat,-,DELI RATNA LUBIS,Masih Hidup,D3,BURUH,3,0,2000000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Negeri 8 Jakarta,Akuntansi dan Keuangan Lembaga,2,8833,,8836,,88,Nasri Affandi,Ayah Kandung,SMA/SMK/sederajat,Tidak Bekerja,Susi Leilani,Masih Hidup,SMA/SMK/sederajat,Berdagang,4,0,840000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Negeri 32 Jakarta,Akomodasi Perhotelan,8,82,8,81,6,84,Yesky Bernard Kaseger,Ayah Kandung,SD,Buruh,Marlin,Wafat,SD,Ibu Rumah Tangga,20,0,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2020,SMKS PURNAMA 2 JAKARTA,Manajemen Perkantoran,1,78,1,79,1,82,Nasrulloh,Ayah Kandung,SMA/SMK/sederajat,Buruh Bangunan,Jubaedah,Masih Hidup,SMP,Pembantu Rumah Tangga,3,1050000,1000000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Perbankan Indonesia,Akuntansi,3,84,1,82,1,83,Rawan,Ayah Kandung,SMP,Buruh,Juju,Masih Hidup,SD,Ibu Rumah Tangga,6,250000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 3 Kuningan,Teknik Instalasi Tenaga Listrik,10,80,10,82,8,83,Misnu,Ayah Kandung,SMP,Peg.swasta,Ikah haryati,Masih Hidup,SMP,Tidak bekerja,4,3000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK NEGERI 1 SLAWI,Teknik Komputer dan Jaringan,9,834,,84,,856,A. DASUKI,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,AZIJAHTUN FARIHA,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,4,1500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK ISLAM ASSA'ADATUL ABADIYAH,Akuntansi,12,8,0,8,6,8,Dahyar,Ayah Kandung,SMA/SMK/sederajat,karyawan swasta,Sri Wahyuningsih,Masih Hidup,SMP,ibu rumah tangga,4,2500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK NEGERI 8 JAKARTA,AKUNTANSI DAN KEUANGAN LEMBAGA,5,88,,88,,89,SUTRISNO,Ayah Kandung,SD,TIDAK BEKERJA,SUHANI,Masih Hidup,SD,TIDKA BEKERJA,4,0,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,Al-Karimiyah,IPS,,,,,,,Sujaya,Ayah Kandung,SMA/SMK/sederajat,Buruh,Titin Maryati,Masih Hidup,SD,Ibu Rumah Tangga,3,1500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMK PERWIRA BANGSA ,Teknik Audio dan vidio,,,,,,,Dadang syarif ,Ayah Kandung,SMA/SMK/sederajat,Karyawan,Aisyah amelia ,Masih Hidup,SD,Ibu rumah tangga ,4,3000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Perbankan Indonesia,Akuntansi,3,80,2,81,,,Endang Juher,Ayah Kandung,SMP,Buruh,Emi Suhaemi,Masih Hidup,SMP,Ibu Rumah Tangga,4,250000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negeri 1 Sukoharjo,Teknik Komputer dan Jaringan ,3,86,2,86,3,86,M. Solechan Nuryahmin ,Ayah Kandung,SMA/SMK/sederajat,Wirausaha,Sri Suwarni,Masih Hidup,SMP,Ibu Rumah Tangga,4,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMKN 8 JAKARTA,Akuntansi dan Keuangan Lembaga,3,88,9,87,8,89,Hermawan,Ayah Kandung,SMP,Sudah tidak bekerja,Kurniasih,Masih Hidup,SD,Ibu rumah tangga,6,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK PGRI 11 JAKARTA,AKUNTANSI DAN KEUANGAN,2,86,2,87,2,87,RUSDI HASAN,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,DIANA LISA,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,5,3000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK PLUS ALHASANAH,Farmasi,1,8661,1,8916,1,9175,Jaja,Ayah Kandung,SD,Wiraswasta,Wati,Masih Hidup,SD,Ibu Rumah Tangga,4,500000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Perbankan Indonesia,Akuntansi,8,80,0,80,,80,Jumad,Ayah Kandung,SD,Buruh,Eneng,Wafat,SD,Ibu Rumah Tangga,3,900000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK PERBANKAN INDONESIA,Akunransi,3,80,2,81,,,Endang juher,Ayah Kandung,SMP,Buruh,Emi suhaemi,Masih Hidup,SMP,Ibu rumah tangga,4,250000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMA N 1 GONDANG,IPA,20,80,16,85,19,80,SLAMET RIYADI,Ayah Kandung,SMA/SMK/sederajat,Buruh pabrik,SRI HANDAYANI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,5,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Mahadhika 1,Administrasi Perkantoran,10,80,4,87,4,87,Nuryadi,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Nonih,Masih Hidup,SMP,Ibu rumah tangga,4,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negeri 1 Cikampek,Analisis Pengujian Laboratorium,3,81,8,82,5,83,Wahyudin,Ayah Kandung,SD,-,Dedeh Setiawati,Masih Hidup,SMP,Buruh jait,4,0,1000000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK NEGERI 1 SUKOHARJO,Teknik komputer dan jaringan,11,84,24,807,28,843,Wardi priyo hartono,Ayah Kandung,SD,Pedagang,Sri mulyani,Masih Hidup,SMA/SMK/sederajat,Buruh toko sembako,5,1500000,1000000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 BUNGURSARI,MIPA,3,75,3,75,3,78,ASEP ABDUL MUKAROM,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,HAJAH PATMAWATI,Masih Hidup,SD,BURUH,5,0,500000,1
-Perempuan,Program Keluarga Harapan (PKH),2021,SMKN 1 CIKAMPEK,Analisis Pengujian Laboratorium,1,80,7,83,10,82,Saeful Rahman,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Euis Ernawati,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,2250000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,MAN SAWAHLUNTO,IPA,9,847,6,884,4,892,ABD MUIS,Ayah Kandung,SMA/SMK/sederajat,Cleaning Service,Siti Arbaiah,Masih Hidup,SMA/SMK/sederajat,pedagang ,7,2917744,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK global mulia ,Administrasi Perkantoran ,,,,,,,Enan ,Ayah Kandung,SMP,buruh ,Neti herawati,Masih Hidup,SMA/SMK/sederajat,Wirausaha ,4,750000,500000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,Smkn 1 Karangtengah,Rekayasa Perangkat Lunak,2,83,1,87,1,87,Atin Jaenudin,Ayah Kandung,SMP,Pedagang Kecil,Eutik Hasanah,Masih Hidup,SD,Ibu Rumh Tangga Dan Usaha warung kecil,5,1800000,500000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMA,IPA,9,86,1,88,1,89,PRIHADI,Ayah Kandung,SMA/SMK/sederajat,Pegawai Swasta,SUHARTINI,Masih Hidup,SMP,Ibu rumah tangga,5,3000000,500000,1
-Perempuan,Program Keluarga Harapan (PKH),2021,SMA Muhammadiyah Karawang,IPS,2,8274,3,8263,2,8463,Suryana,Ayah Kandung,SD,Buruh harian,Ikah,Masih Hidup,SD,Pedagang,3,1500000,1000000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,MAS MUHAMMADIYAH KADUDAMPIT,IPS,0,885,0,885,0,876,PADMA WINATA,Ayah Kandung,SMP,WIRASWASTA,IMAS RUSMIATI,Masih Hidup,SMP,IBU RUMAH TANGGA,3,70000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 1 CIKAMPEK,Analisis pengujian laboratorium,24,78,24,82,24,80,Agus Maulana,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Fatimah,Masih Hidup,SD,Tidak Bekerja,6,0,0,1
-Laki-laki,Program Keluarga Harapan (PKH),2021,SMA SWASTA KATOLIK CINTA KASIH,IPS,12,87,15,80,13,87,Ralem damanik,Ayah Kandung,SMA/SMK/sederajat,Bertani,Rasminatiur sitio,Masih Hidup,S1,Bertani,4,1500000,1000000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 1 CIKAMPEK,Analisis pengujian laboratorium,19,79,28,93,30,78,Kayat,Ayah Kandung,SD,Buruh,Eri,Masih Hidup,SD,Ibu rumah tangga,5,50000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK PUTRA SATRIA,Teknik komputer jaringan,0,78,0,78,0,78,Advazuandi,Ayah Kandung,SD,Buruh,Siti rukiah,Masih Hidup,SMP,Ibu rumah tangga,1,1200000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK NEGERI 1 BREBES,Tata Busana,0,78,0,77,0,79,Eko Sutarmono,Ayah Kandung,SD,Wiraswasta,Rimayati,Masih Hidup,SD,Ibu rumah tangga,4,2500000,1500000,1
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMK YAPPENDA,TEKNIK KOMPUTER JARINGAN,15,80,6,84,19,84,LAGIONO,Ayah Kandung,SMP,SUPIR,watiah,Masih Hidup,SD,ibu rumah tangga,6,0,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Tunas Pembangunan,Teknik Komputer Jaringan,0,81,0,82,0,81,Pathudin,Ayah Kandung,SMP,Wiraswasta,Siti Nurhikmah,Masih Hidup,SD,Ibu Rumah tangga,4,1000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,Smkn1 cikampek,Analisis pengujian laboratorium,,,,,,,Ruslan,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,nurhaidah tarigan,Masih Hidup,SMA/SMK/sederajat,Pedagang,5,0,250000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Ti Muhammadiyah Cikampek,Teknik Mekanik Industri,6,8208,6,8237,0,8145,Soyat,Ayah Kandung,SD,wirausaha,Eliyati,Masih Hidup,SD,Ibu Rumah Tangga,5,15,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMK TEXMACO PURWASARI,Teknik Komputer Jaringan,,,,,,,MHD Yusuf F,Ayah Kandung,SMA/SMK/sederajat,-,Hasnita,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,2,0,100,1
-Perempuan,Program Keluarga Harapan (PKH),2020,SMA Negeri 1 Kramat,MIPA,0,80,0,82,0,84,Achmad ,Ayah Kandung,SD,Karyawan,Sukarni,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah tangga,5,3000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 1 CIHAURBEUTI,MIPA,13,836,12,8486,11,8586,Endang Solehudin,Ayah Kandung,SD,Pedagang,Siti Maryam,Masih Hidup,SD,Ibu Rumah Tangga,5,1000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMAS BINA PANGUDI LUHUR,Ilmu Pengetahuan Alam,1,85,2,83,10,79,Utar,Ayah Kandung,SMA/SMK/sederajat,PPSU,Warsih,Masih Hidup,SD,Ibu Rumah Tangga,6,4200000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Terpadu Riyadlul 'Ulum,MIPA,6,8563,5,8581,4,8758,Sutisna,Ayah Kandung,SD,Pedagang,Elin Herlina,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,1000000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK NEGERI 1 TIRTAJAYA,REKAYASA PERANGKAT LUNAK,,8653,,8236,,8563,RATIYAN,Ayah Kandung,Tidak sekolah,Wiraswasta,ANAH HARTATI,Masih Hidup,Tidak sekolah,Ibu rumah tangga,4,1250000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 17 JAKARTA,REKAYASA PERANGKAT LUNAK,12,86,16,89,,,DIAN FIRMANSYAH NP,Ayah Kandung,SMA/SMK/sederajat,buruh harian lepas,FIFI NURIL FITRI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,12,2000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Negeri 4 Kota Bekasi,MIPA ,,83,,85,,86,Harsono Nur Efendi ,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Sriyatun,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga ,2,5000000,2000000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMA Budi Utomo Perak,IPA,11,85,9,91,8,93,Wasiman,Ayah Kandung,D3,Wirausaha,Unifah,Masih Hidup,SMA/SMK/sederajat,Wirausaha ,5,1000000,1000000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK TI Muhammadiyah Cikampek,Teknik Komputer dan Jaringan,1,87,2,86,1,88,Teddi Permana,Ayah Kandung,SMP,Tukang service elektronik,Popon Komala,Masih Hidup,SD,Ibu rumah tangga,7,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Budi Asih,Bisnis Daring Pemasaran,4,77,3,80,3,80,Ayub Solehudin,Ayah Kandung,SMA/SMK/sederajat,Tidak Bekerja,Euis Herawati,Masih Hidup,SMA/SMK/sederajat,Karyawan Swasta,11,0,5000000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,Smk jakarta Raya 1,Teknik Mekanik Idustruti,17,80,18,78,18,80,Sujalmo,Ayah Kandung,SD,Penjual mie ayam kota,Kuswati,Masih Hidup,SD,Ibu rumah tangga,4,250,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK SEHATI KARAWANG,Teknik Bisnis Sepeda Motor,1,8072,1,827,1,835,Mamat,Ayah Kandung,SMA/SMK/sederajat,Driver ekspedisi SAP,Listiawati,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,4,4000000,0,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2020,MA MAMBAUL ULUM ASSHIDDIQIYAH JAKARTA,IPS,10,8021,10,8257,10,8347,SUTIMAN,Ayah Kandung,SD,Pedagang,AFIFAH UMI HANIK,Masih Hidup,SMP,Ibu Rumah tangga,6,2000000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 1 LEMBOR,IPS,0,791,0,8042,0,815,Elias Stau ,Ayah Kandung,SMP,Petani,Genoveva Mimut,Wafat,SMA/SMK/sederajat,Petani,2,250000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK TI Muhammadiyah Cikampek,Teknik Kendaraan Ringan,1,8267,7,8050,0,8340,Sumanis,Ayah Kandung,SMA/SMK/sederajat,Pangkas rambut,Lilik Wati riningsih,Masih Hidup,SD,Ibu rumah tangga,4,2000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Negeri 2 Brebes,IPA,0,84,0,86,0,88,Dasuki,Ayah Kandung,SD,Buruh Tani, Dewi kusrini,Masih Hidup,SD,ibu rumah tangga,5,800,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 3 SLAWI,IPS,,83,,87,,89,Ramedon,Ayah Kandung,SD,Tidak bekerja,Siti Roanah,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,9,0,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 1 GANTAR,Rekayasa Perangkat Lunak,2,85,2,78,2,79,Arifin,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Maryati,Masih Hidup,SD,Ibu Rumah Tangga,6,1650000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK NEGERI REA TIMUR,PERIKANAN,5,80,5,80,2,82,Jumeri,Ayah Kandung,S1,Almarhum,Rosmini,Masih Hidup,SMP,Urusan rumah tangga,8,700000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK N 1 SUKOHARJO,TEKNIK KOMPUTER DAN JARINGAN,1,885,1,887,1,897,NUBROTO,Ayah Kandung,SD,Buruh,SARJANI,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,8,2500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 1 Adiwerna,Teknik Kendaraan Ringan Otomotif,1,89,1,88,1,91,Sobirin,Ayah Kandung,SMP,Telah wafat,Umi Khayati,Masih Hidup,SMP,Penjahit,3,0,750000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Negeri 1 Cibitung,IPA,0,86,0,87,0,89,Suhendi S,Ayah Kandung,SD,Sudah tidak bekerja karena sakit,Ani Sya'aniah,Masih Hidup,SD,Ibu Rumah Tangga,5,0,250000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKS AL - MUHADJIRIN ,Rekayasa Perangkat Lunak,10,83,10,86,10,8204,RA Sukarno,Ayah Kandung,SMA/SMK/sederajat,Pensiunan Pegawai swasta,Linawati,Masih Hidup,SD,Ibu Rumah Tangga,3,0,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK PERGURUAN CIKINI,TEKNIK KOMPUTER JARINGAN,10,78,8,81,6,83,Afrinsyah,Ayah Kandung,D3,KORBAN PHK,FERLINA HARTATI,Masih Hidup,D3,PERAWAT,9,0,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA,MIPA,,823,,865,,878,Syahrul,Ayah Kandung,SD,Petani,Halimah,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,5,700000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMKS TI Muhammadiyah Cikampek,Teknik komputer dan jaringan,0,80,0,81,0,81,Maya Sofyan,Ayah Kandung,SMP,Buruh lepas,Warsini,Masih Hidup,SMP,Ibu rumah tangga,4,1000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 4 KOTA TEGAL,MIPA,1,85,1,88,1,88,H. SRIYONO. ALM,Ayah Kandung,SMA/SMK/sederajat,Tidak Bekerja,HENI YUDANINGSIH,Masih Hidup,SMA/SMK/sederajat,Pedagang,3,0,1400000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN NEGERI 1 KLARI,Teknik komputer jaringan,,,,,,,Jaja,Ayah Kandung,SD,Tidak bekerja,Otis,Masih Hidup,SD,Wirausaha,6,0,200,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Budi Utomo Depok,IPA,,783,,70,,,Sam Nasiboe,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Elys Rosauli Sinaga,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,2,0,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Negeri 14 Tangerang,Manajemen,,821,,872,,894,David Ronald,Ayah Kandung,SMA/SMK/sederajat,Pegawai swasta,Uswatun Hasanag,Masih Hidup,SMA/SMK/sederajat,Rumah Tangga,3,3500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK SATRIA ,PEMASARAN,6,8599,20,8272,16,8400,JAPAR SIDIK,Ayah Kandung,SMA/SMK/sederajat,WIRASWASTA,SULYATI,Masih Hidup,SMP,IBU RUMAH TANGGA,3,1250,1500,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Widya Manggala,Ilmu Pengetahuan Sosial (IPS),,789,,802,,831,Marlatu Hattu,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Jopie Jacomina Hattu,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,2000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 5 JAKARTA,IPS,,,,,,,TARYUDI,Ayah Kandung,SMA/SMK/sederajat,BURUH,MIRAWATI,Masih Hidup,SMA/SMK/sederajat,ART,6,3000000,3000000,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMK NEGERI 1 SLAWI,Teknik Komputer dan Jaringan,6,84,,84,,87,Kusworo,Ayah Kandung,SMA/SMK/sederajat,Buruh,Junaroh,Masih Hidup,SD,Ibu Rumah Tangga,3,750000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMK Pelita Nusantara 1 Semarang,Administrasi perkantoran,,7,9,8,,8,Agus Suronto,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Butet purba,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,0,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMA N 3 SLAWI,IPA,3,858,6,878,6,883,Sumardi,Ayah Kandung,SMA/SMK/sederajat,Tukang listrik dan wirausaha,Sahiroh,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,6,1500000,0,1
-Perempuan,Program Keluarga Harapan (PKH),2021,SMKN 1 BREBES,Tata busana,,78,,811,,834,Sumadi,Ayah Kandung,SMA/SMK/sederajat,tidak bekerja,Wariatun,Masih Hidup,SD,pedagang,6,700,50,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA NEGERI 1 PLERET,IPA,9,81,4,84,5,85,KARJANA,Ayah Kandung,SMP,BURUH HARIAN LEPAS,SITI JUHAROH,Masih Hidup,SMP,IBU RUMAH TANGGA,3,500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAS Sultan Agung,IPS,9,83,7,86,7,87,Jumpa Fransiskus Purba,Ayah Kandung,Tidak sekolah,Petani,Reliana Sirait,Masih Hidup,SMA/SMK/sederajat,Petani,4,750000,500000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK 1 Tegal,PERHOTELAN DAN JASA PARIWISATA ,14,81,15,80,13,79,Heru Susanto Lempo,Ayah Kandung,SMP,buruh,Rahmawati niode,Masih Hidup,SMA/SMK/sederajat,ibu Rumah tangga,5,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,Smk ypp Bekasi,Akuntansi,11,78,9,82,11,82,Suparta,Ayah Kandung,SMP,Tidak bekerja,Bai sutihat,Wafat,SD,-,5,0,0,1
-Perempuan,Data Terpadu Kesejahteraan Sosial (DTKS),2021,SMKN 62 JAKARTA,bisnis Daring dan Pemasaran,5,82,3,86,4,87,Supriyadi Sanjaya,Ayah Kandung,SMA/SMK/sederajat,buruh,Dewi Rahayu,Masih Hidup,SMA/SMK/sederajat,tidak bekerja (ibu rumah tangga),6,2500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMA Negeri 73,IPS,20,80,16,82,10,83,Ali Sofyan,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Budi Wati Hutagaol,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,8,2000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 2 TEGAL,ips,15,81,15,79,15,86,Heru Susanto Lempo,Ayah Kandung,SMP,buruh,Rahmawati Niode,Masih Hidup,SMA/SMK/sederajat,ibu rumah tangga ,5,2000000,0,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMA,IPS,5,85,4,84,3,87,Burhanudin,Ayah Kandung,SMA/SMK/sederajat,Petani,Lisnawati,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,3,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMA Negeri 1 Babelan,Ilmu Pengetahuan Sosial (IPS),9,78,7,85,6,87,Suharto,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Jumiati,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,2,0,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK TAMANSISWA 3 JAKARTA,AKUNTANSI KEUANGAN LEMBAGA,5,7502786,0,7714,4,81076,EROT SYAMSUDIN ( Almarhum  ),Ayah Kandung,SD,Tidak ada,HADIDJAH,Masih Hidup,SMP,IBu Rumah tangga,7,0,500000,1
-Laki-laki,Surat Keterangan Dari Panti Asuhan/Panti Sosial,2021,SMK N 1 NANGGULAN ,ATR(Agribisnis Ternak Ruminansia) ,,,,,,,Abdullah ,Wali,SMA/SMK/sederajat,Buruh,Galuh puspita rini,Masih Hidup,SMA/SMK/sederajat,Serabutan,4,0,500,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK N 1 SLAWI,Teknik Komputer dan Jaringan,24,83,,81,,80,Dody Sarmadi,Ayah Kandung,SMP,0,Sumirah,Masih Hidup,SD,Cuci Gosok,2,0,800000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 22 Makassar,IPA,5,8671,2,8957,3,9228,Muhammad Nashir Kaddu,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Andi Fatimah,Masih Hidup,S1,Ibu Rumah Tangga,9,2500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK NU HASYIM ASY'ARI TARUB,TKJ,6,8391,5,847,,,M.Imron,Ayah Kandung,SD,Kuli Bangunan,Suripah,Masih Hidup,SD,Ibu Rumah Tangga,4,1500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA PGRI Cikampek,IPA,3,824,4,86,4,852,Hambali,Ayah Kandung,SD,Buruh harian lepas,Ade isnaeni,Masih Hidup,SMP,Ibu rumahtangga,4,2000000,800000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK CITRA BANGSA,Otomatisasi Tata Kelola Perkantoran,3,84,4,83,3,86,Komarudin,Ayah Kandung,SD,Buruh ,Yantih,Masih Hidup,SD,Tidak bekerja,4,2300000,0,0
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMKN 1 ADIWERNA,Teknik Kendaraan Ringan Otomotif,27,8409,19,8373,21,8518,Mohamad Ibnu Soleh,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta dagang,Sri Heni Ekowati,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,3000000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 22 kabupaten Tangerang,IPA,22,8029,20,8129,19,8314,Chandra Yossy,Ayah Kandung,S1,-,Imisnawati,Masih Hidup,SMA/SMK/sederajat,Asisten rumah tangga,4,0,1000000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA NEGERI 1 PATIKRAJA,MIPA,14,796,16,786,,,M. SLAMET RIYADI,Ayah Kandung,SD,BURUH,WIWI WARSITI,Masih Hidup,SD,IBU RUMAH TANGGA,5,1000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Negeri 4,IPS ,2,84,2,87,2,87,Achmad Taufik,Ayah Kandung,SMP,Karyawan swasta ,Wijiati,Masih Hidup,SMP,Ibu Rumah Tangga,4,2000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMKN 1 Karawang ,Teknik instalasi tenaga listrik ,29,82,27,84,24,86,Sahrup,Ayah Kandung,SD,Buruh,Yani mulyani ,Masih Hidup,SMP,Ibu rumah tangga,3,50000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Bhakti Kencana Ciawi,Teknik Komputer Jaringan,1,913,1,936,1,911,Asep Saripudin,Ayah Kandung,SMA/SMK/sederajat,Buruh,Karminah,Masih Hidup,SD,Ibu rumah tangga,3,900000,0,1
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2020,Smkn1 Cilamaya,Tkro otpmotif,,78,,81,,80,Taming suseno,Ayah Kandung,SMP,Buruh serabutan,Yuyun yuningsih,Masih Hidup,SD,Ibu rumah tangga,4,20,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAS FRANSISKUS 2,IPA,3,877,4,84,3,846,Bezatulo Telaumbanua,Ayah Kandung,SMA/SMK/sederajat,tidak bekerja,Firman Isa Ndruru,Masih Hidup,SMP,Asisten Rumah Tangga,4,0,1250000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA NEGERI 18 KOTA BEKASI,MIPA,7,858,8,875,8,898,SUNARWAN,Ayah Kandung,SMA/SMK/sederajat,BURUH,NOVI YUSLIANTI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,8,3000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA N 1 BANYUMAS,MIPA,24,8479,26,8564,25,87,PRAYITNO,Ayah Kandung,SMA/SMK/sederajat,BURUH HARIAN LEPAS,KARTINI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,4,1500000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Dharma Putra 1 Jakarta,Teknik komputer jaringan,2,815,1,801,4,792,Alm. Sujana,Ayah Kandung,SMP,Guru ngaji,Pariyah,Masih Hidup,SMP,Ibu rumah tangga,6,0,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMAN 1 PEDES,IPA MATEMATIKA,,82,,82,,82,MARDANI,Ayah Kandung,SD,BURUH TANI,ANAH,Masih Hidup,SD,IBU RUMAH TANGGA,4,1000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMA PATTIMURA JAGAKARSA ,Soshum ,,84,,84,,84,Sumali,Ayah Kandung,SMA/SMK/sederajat,Buruh pabrik sepatu ,Munawaroh ,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga ,5,3750000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK MANANGGA PRATAMA KOTA TASIKMALAYA,Rekayasa Perangkat Lunak,2,88,1,87,1,81,O Solihin,Ayah Kandung,SD,Buruh Harian Lepas,Idah Rosidah,Masih Hidup,SD,Ibu Rumah Tangga,6,50000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK MANANGGA PRATAMA KOTA TASIKMALAYA,Rekayasa Perangkat Lunak,1,88,6,85,2,79,Abd Kohar,Ayah Kandung,SD,Buruh Harian Lepas,Dewi Handayani,Masih Hidup,SD,Ibu Rumah Tangga,12,50000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Ganesa Satria 1 Depok ,Otomatisasi Tata Kelola Perkantoran ,,792,,797,,80,Sulistyo ,Ayah Tiri,S1,Tidak Bekerja (Pensiunan) ,Juliana Nurhasanah ,Masih Hidup,D3,Ibu Rumah Tangga ,4,4300000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 1 JAKARTA,TEKNIK PERANCANGAN GAMBAR MESIN,2,813,4,835,2,862,AJI SOFYAN,Ayah Kandung,D3,KARYAWAN SWASTA,CHASANAH SARASWATI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,4,3000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 Parung,IPS,,826,,89,,84,Hermandia,Ayah Kandung,SMA/SMK/sederajat,Kurir Toko,Siti Rohawa,Masih Hidup,SMA/SMK/sederajat,Wirausaha,7,700000,500000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Perguruan Rakyat 2,IPS,,84,,87,,89,Suwarto,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Rubiyah,Wafat,SD,tidak bekerja,2,4000000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,MA NURUL FALAH,IPS,1,87,1,89,1,90,SIRAJUDIN,Ayah Kandung,SD,-,JULAIHA,Masih Hidup,SD,Buruh Tani,4,0,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMA negeri 1 kotabumi,Ipa,,80,,80,,84,Mat ali,Ayah Kandung,SMA/SMK/sederajat,Buruh petani,Sustri,Masih Hidup,SMP,Tidak bekerja,4,2000000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK PGRI 35 JAKARTA,Marketing,,79,,79,,80,Riyanto,Ayah Kandung,SMA/SMK/sederajat,Supir freelance,Kiki Alfrianti,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,6,1500000,0,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2019,SMK Negeri 1 Borong,Teknik Komputer Dan Jaringan,,,,,,,Markus Karus,Ayah Kandung,SMA/SMK/sederajat,Petani,Bernadeta Nggunu,Masih Hidup,SD,Ibu Rumah Tangga,4,1000,500,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMKN 1 JOGONALAN,MULTIMEDIA,,84,,84,,85,SUMARJI,Ayah Kandung,SMP,BURUH,SRI LESTARI,Masih Hidup,SMP,IBU RUMAH TANGGA,4,1000000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,Smk Insan Bhakti Mulia,Akuntansi,3,7645,3,8344,4,8046,Endang Yuliadi,Ayah Kandung,SMA/SMK/sederajat,Pegawai swasta,Nursyamsiah,Masih Hidup,SMA/SMK/sederajat,Asisten rumah tangga,4,0,0,1
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2020,SMK IPTEK Sanggabuana,Teknik Komputer dan Jaringan,,79,,79,9,81,Naimudin,Ayah Kandung,SD,peternak ikan,Siti Julaeha,Masih Hidup,SD,Ibu Rumah Tangga,3,2500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Smkn 15,Usaha Perjalanan Wisata,19,83,14,865,8,87,Zainal Abidin,Ayah Kandung,SMA/SMK/sederajat,Driver ojek online,Netiliyana,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,4,900000,0,0
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2019,SMK Walisongo Jakarta ,Akuntansi ,0,77,0,65,0,82,Asmuni ,Ayah Kandung,SD,Wiraswasta ,Fatimah ,Masih Hidup,SD,Ibu rumah tangga ,4,700000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,MAN 2 TASIKMALAYA,IPS,3,88,3,89,3,89,DADANG,Ayah Kandung,S1,Pedagang sayur,RENI NURSANTI,Masih Hidup,SMA/SMK/sederajat,Ojek online,2,250000,500000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2019,SMA Negeri 94 Jakarta,Ips,17,81,19,76,19,77,Sutarto,Ayah Kandung,SMA/SMK/sederajat,Ojek Online (OJOL),Suryani,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,3,0,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2020,SMK Ma'arif NU Banjar,Akuntansi,0,83,0,85,9,80,Surachman,Ayah Kandung,SMA/SMK/sederajat,Wirausaha,Alm. Sukeni,Wafat,SMA/SMK/sederajat,sudah wafat,6,2000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,Smk Setia Negara,Akutansj dan keuangan lembaga,10,8617,13,851,11,8556,Ridwan,Ayah Kandung,SMA/SMK/sederajat,Karyawna swasta,Asmawati,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,3000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 8 Jakarta,Akuntansi dan Keuangan Lembaga,7,9242,7,9327,8,9291,Catur Hermawan,Ayah Tiri,SMA/SMK/sederajat,Supir Angkot,Annis Widiarti,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,6,1250000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMK IPTEK CILAMAYA,ADMINISTRASI PERKANTORAN,3,80,4,78,3,80,NANANG AHMAD HERYANTO,Ayah Kandung,SMP,WIRAUSAHA,CASEM,Masih Hidup,SMA/SMK/sederajat,WIRAUSAHA,5,100000,60000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMA Negeri 1 Baturetno,MIPA,,791,,7473,,8173,Calixtus hari adi nugroho,Ayah Kandung,SMA/SMK/sederajat,Pedagang,Yolanda ekawati,Masih Hidup,D3,Ibu rumah tangga,5,2000000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMK AN NIHAYAH,ANIMASI,,,,,,,AHMAD SARIPUDIN,Ayah Kandung,SMA/SMK/sederajat,WIRAUSAHA,IAH WASIAH,Masih Hidup,SMP,Wirausaha,5,1000000,250000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 54 Jakarta,Teknik Komputer Jaringan,4,84,6,84,,81,Casto Denan,Ayah Kandung,SMP,Karyawan Swasta,Sri Anik,Masih Hidup,SMP,Ibu Rumah Tangga,5,1620000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMK ANNIHAYAH,ELEKTRONIKA,2,90,2,89,1,89,ADAM SUTISNA,Ayah Kandung,SMP,WIRASWASTA,SANI NURJANAH,Masih Hidup,SD,WIRASWASTA,6,10,1000000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,MAN 1 TANGERANG,Matematika dan ilmu alam (MIPA),,869,,8585,,885,Dede Moehtar,Ayah Kandung,SMP,Pedagang,Dewi Pujiawati,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga/ tidak bekerja,5,2000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020, SMK N 1 PADAHERANG,Rekayasa perangkat lunak ,0,80,0,80,0,79,Turijo,Ayah Kandung,SD,Buruh,Asih sugiarti,Masih Hidup,SD,Ibu rumah tangga,4,500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK JAKARTA TIMUR 1,Akuntansi,0,8175,0,80,0,8371,Dalijan,Ayah Kandung,SMP,Wiraswasta,Surip Ariyani,Masih Hidup,SMP,Ibu rumah tangga,4,1000000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Ma'arif Jakarta,Otomatisasi dan Tata Kelola Perkantoran,5,8123,6,81,4,82,Nanang Kosim,Ayah Kandung,SD,Jasa pasang antena TV,Gusniawati,Masih Hidup,SMP,Ibu rumah tangga,4,350000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Insan Tazakka,Teknologi Komputer & Jaringan,0,815,0,858,0,868,Dadang Rahmatullah,Ayah Kandung,SMP,Buruh Harian Lepas,Aas Hasanah,Masih Hidup,SMP,Cleanning Service,2,1500000,1000000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 3 DEPOK,AKUNTANSI KEUANGAN DAN LEMBAGA,32,80,27,848,26,8396,SAYOGO,Ayah Kandung,SMA/SMK/sederajat,TIDAK BEKERJA,RANTIYEM,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,3,0,500000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA N 1 Pangkah,IPS,8,805,6,830,4,843,Herman Patrisno,Ayah Kandung,SMA/SMK/sederajat,Buruh,Ponirah,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,1500000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Negeri 1 Purbalingga,Akuntansi,17,8138,,8677,,8638,Arif Haryanto,Ayah Kandung,SMA/SMK/sederajat,Karyawan swasta,Sulis Parliatun,Masih Hidup,SMA/SMK/sederajat,Pedagang kecil,4,1000000,700000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 2 CIKARANG SELATAN ,IPA,10,8,9,8,8,8,JUSTINUS MARBUN ,Ayah Kandung,SMP,Tidak ada pekerjaan ,KARLINA SITIO,Masih Hidup,SMP,Ibu rumah tangga ,7,500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA ADZKIA ISLAMIC SCHOOL,IPS,2,878,2,868,2,901,Anwar Ujang,Ayah Kandung,SMA/SMK/sederajat,Buruh,Siti Maseta,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,2100000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Insan Tazakka,Teknik Komputer Jaringan,5,836,4,870,0,880,Dede Heri,Ayah Kandung,SD,Pegawai Swasta,Turinah,Masih Hidup,SD,Ibu Rumah Tangga,5,3000000,0,1
-Perempuan,Program Keluarga Harapan (PKH),2020,SMK N 5 SURAKARTA,REKAYASA PERANGKAT LUNAK,1,8817,1,8550,1,8580,DODIE KURNIAWAN HERMAWANTO,Ayah Kandung,SMA/SMK/sederajat,WIRASWASTA,NARINIH,Masih Hidup,SMA/SMK/sederajat,WIRAUSAHA,5,1500000,1250000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,Smk maarif nu 01 suradadi ,Otomotif,31,76,26,80,26,79,Wawan kurniawan,Ayah Tiri,SD,Security,Waryuni,Masih Hidup,Tidak sekolah,Ibu rumah tangga,4,1500000,1500000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Hang Tuah 1 Jakarta,Otomatisasi Tata Kelola Perkantoran,,,,,,,Aris,Ayah Kandung,SD,Pedagang,Sumarti,Masih Hidup,SMP,Ibu Rumah Tangga,4,3500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 Cisaat,MIPA,,,,,,,Syarif Hidayat (Alm),Ayah Kandung,SMA/SMK/sederajat,-,Yanti Fondayanti,Masih Hidup,SMA/SMK/sederajat,Karyawan Swasta,4,0,3000000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 46 JAKARTA,Akuntansi Keuangan dan Lembaga,1,90,5,89,7,90,Samuel Slamet Hartono,Ayah Kandung,SMA/SMK/sederajat,Sales,Sugiarti Martha,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,2000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,smk nurul iman,akuntansi,0,82,0,81,0,83,achmad asep,Ayah Kandung,SMA/SMK/sederajat,wirausaha,murnah,Masih Hidup,SMA/SMK/sederajat,ibu rumah tangga,6,1000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 107 JAKARTA,IPA,13,8271,11,8435,10,86,Markus Irwanto,Ayah Kandung,D3,Tidak bekerja,Hety Ismiyati,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,3,0,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMK NEGERI 9 KAB. TANGERANG,Teknik Komputer dan Jaringan,2,8025,4,7663,6,84,M. Ucung,Ayah Kandung,SD,Buruh Supir,Rosidah,Masih Hidup,SD,Ibu Rumah Tangga,6,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMA PGRI CIKAMPEK,IPA,1,83,2,85,1,87,Nurul Amin,Ayah Kandung,SMP,-,Siti,Masih Hidup,SD,Buruh cuci baju,4,0,1500000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 2 PONTIANAK,Teknik Elektronika Industri,0,8083,1,826,5,836,Khairil,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Uchti Bariyah,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,2800000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 1 KRAMAT,MIPA,9,83,9,86,9,88,SUKARWO,Ayah Tiri,SMA/SMK/sederajat,Buruh harian lepas,Siti Pamri yanti,Masih Hidup,SMP,tidak bekerja,4,1000000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 1 BREBES,TEKNIK KOMPUTER JARINGAN (TKJ),2,85,2,86,2,86,SARYAT,Ayah Kandung,SD,TUKANG BECAK,SOLIKHA,Masih Hidup,SD,IBU RUMAH TANGGA,3,800000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2020,SMK INSAN TAZAKKA,Manajemen perkantoran,8,832,9,842,9,868,Napih,Ayah Kandung,SD,Buruh harian lepas,Riah,Masih Hidup,SD,Buruh,5,50000,800000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 1 LEUWILIANG,IPS,4,87,5,88,3,90,Etofa,Ayah Kandung,SMA/SMK/sederajat,Karyawan swasta/driver,Rukmini,Masih Hidup,SMP,Ibu Rumah Tangga,4,1500000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 52 MALUKU TENGAH,MIPA,13,795,13,812,10,821,RUDI LAETA,Ayah Kandung,SMA/SMK/sederajat,Petani,KAMSIA DAUD,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,6,1000000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMKN 1 CILAMAYA,TEKNIK KENDARAAN RINGAN,,81,,81,,79,WAHID,Ayah Kandung,SD,WIRASWASTA,IDA ROYANI,Masih Hidup,SD,IBU RUMAH TANGGA,3,300000,100000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 20 Jakarta,Otomatisasi Tata Kelola Perkantoran,11,872,12,8840,0,878,Nurhadi,Ayah Kandung,SMP,Staff Parkir,Wahyuni,Masih Hidup,SD,Ibu Rumah Tangga,4,2000000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMKN1 SINGKAWANG,TEKNIK KOMPUTER DAN JARINGAN,9,7964,2,84,2,5,AJUS,Ayah Kandung,SD,BURUH,MUNIS ,Wafat,SMA/SMK/sederajat,TIDAK ADA,2,2500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK YPK KESATUAN,OTKP/PERKANTORAN,0,7781,0,749,0,7527,Susyadi,Ayah Kandung,SMP,Wirausaha,Sumiyati,Masih Hidup,SMP,Wirausaha,7,0,1E+13,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN RAJAPOLAH,Bisnis Daring pemasaran,12,8325,12,85,10,87,Ade Rusmana,Wali,SMP,Wirausaha,Euis Rumiyasih,Masih Hidup,SMP,Ibu rumah tangga,4,1000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMK Corpatarin 02,Multimedia,,,,,,,Abdul Ajis,Ayah Kandung,SD,Teknisi AC,Lilis Sutianah,Masih Hidup,SD,Pembantu rumah tangga,2,1900000,1000000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAT DARUL MUTA'ALLIMIN,MIPA,8,840625,9,8325,8,8593,Agus Salim,Ayah Kandung,SMA/SMK/sederajat,Petani,Nur Asiyah,Masih Hidup,SD,Ibu rumah tangga,5,2400000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Negeri 12 Depok,IPS,3,84625,9,820625,4,846875,Jamingan,Ayah Kandung,SMP,Buruh ,Siti Hasanah ,Masih Hidup,SMP,Tidak Berkerja,4,3500000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Darul Muta'allimin,MIPA,1,864,4,85,3,87,Sunaryat,Ayah Kandung,SD,Buruh,Lia Mulyani,Masih Hidup,SD,Tidak bekerja,6,1500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMKN 15 JAKARTA,AKUNTANSI ,21,82,19,84,18,85,LILIK SURATO,Ayah Kandung,SMA/SMK/sederajat,PEDAGANG KAKI LIMA,IFA SUTIASIH ,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,7,27500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 2 KOTA MAGELANG ,Rekayasa Perangkat Lunak,5,94235,6,7708,8,8720,CH. Sholikhan Al Mubarok ,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Nurul Afriyani,Masih Hidup,SMP,Ibu Rumah Tangga,8,3000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negeri 1 Jakarta,Bisnis Konstruksi dan Properti,0,8190,0,816,0,867,Said Nurdiyanto,Ayah Kandung,SMA/SMK/sederajat,Sopir,Maryati,Masih Hidup,SMP,Ibu rumah tangga,5,2500000,0,0
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMA TERPADU DARUL MUTA'ALLIMIN,ipa,10,75,10,80,10,80,APIPUDIN,Ayah Kandung,SD,PETANI,LILIK KASTURI,Masih Hidup,SD,ibu rumah tangga,3,500000,0,1
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMK PERTIWI SUKAMANDI,TEKNIK KOMPUTER DAN JARINGAN,,,,,,,Acam,Ayah Kandung,Tidak sekolah,Buruh Tani,Aminah,Masih Hidup,SD,Ibu Rumah Tangga,3,1750000,750000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 BUNGURSARI - Kab. Purwakarta,IPS,6,76,5,80,7,71,URIP AHMAD ZAELANI,Ayah Kandung,SMA/SMK/sederajat,Buruh,Rohanah,Masih Hidup,SD,Tidak Bekerja,5,750000,0,1
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,MAN 4 KARAWANG,IPA,9,79,8086,7,8184,7,RUSMAN,Ayah Kandung,Tidak sekolah,-,MUNAH,Masih Hidup,Tidak sekolah,BURUH,5,0,900000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMA NEGERI 1 PURWOREJO,MATEMATIKA IPA,,848,,864,,884,ENTIS SUARNA,Ayah Kandung,SMA/SMK/sederajat,WIRASWASTA,FARIDA SUWANTI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,5,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAS ISLAM HARAPAN IBU,IPS,3,85,2,90,2,905,Zaeni,Ayah Kandung,SMA/SMK/sederajat,PNS,Rosmalinah,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,5000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 9 Tasikmalaya,IPS,5,85,2,94,3,85,Agus Mulyana,Ayah Kandung,SMA/SMK/sederajat,Dagang,Hinda Wulandari,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,6,50000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,MAN 4 KARAWANG,IPS,4,8584,5,8784,5,902,MUHAMAD MURYADI ,Ayah Kandung,D3,Sales,Imas masitoh,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga ,5,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 113 JAKARTA,MIPA,6,875,,903,,92,ALEH KUSMAN,Ayah Kandung,SMA/SMK/sederajat,BURUH,ARNI,Masih Hidup,SMP,Ibu rumah tangga,4,3000000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Smk amanah bangsa,Teknik komputer jaringan,1,,1,,1,,Syarif adjie,Ayah Kandung,SMA/SMK/sederajat,Supir taxi,Elis satiyah,Masih Hidup,S1,Asisten rumah tangga,5,500000,800000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,Ma AZ - ZIYADAH,Keagamaan,,76,,80,,71,Umad muhammad,Ayah Kandung,SMA/SMK/sederajat,Karyawan swasta,Sri yani,Masih Hidup,SMA/SMK/sederajat,Karyawan swasta,4,2500000,2200000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Permata 2 Kota Bogor,Akuntansi,2,87,1,91,1,90,Muhari,Ayah Kandung,SD,Ayah sudah wafat,Rokiah,Masih Hidup,Tidak sekolah,Buruh petani,3,0,450000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,Smk Negeri 6 Pontianak,MULTIMEDIA,6,81,2,87,1,88,Sakun,Ayah Kandung,SMP,Pekerja Swasta,Pairah,Masih Hidup,SMP,Ibu rumah tangga,3,1000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 1 RANDUDONGKAL,MIPA,6,84,6,84,5,86,MUNAJI,Ayah Kandung,SMP,-,KHANIFAH,Masih Hidup,SMP,PEDAGANG KECIL,4,0,1000000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Mitra Industri MM2100,Akuntansi,,84,,85,,95,Sutanto,Ayah Kandung,SMA/SMK/sederajat,Wirausaha,Kustinah,Masih Hidup,SMA/SMK/sederajat,Tidak Bekerja,5,2000000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 62 JAKARTA,MULTIMEDIA,11,83,14,84,27,84,SOLICHIN,Ayah Tiri,SMA/SMK/sederajat,Wirausaha,SUPANI,Masih Hidup,SMA/SMK/sederajat,Tidak Bekerja/Ibu Rumah Tangga,4,2500000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Negeri 18 Bekasi,IPS,1,8613,2,8847,2,908,James Wijayanto,Ayah Kandung,S1,Ojek Online,Zainatun Rabbiah,Masih Hidup,S1,Ibu Rumah Tangga,4,2500000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMA NEGERI 1 BUMIAYU,IPS,17,81,15,81,13,82,ARMIWAN,Ayah Kandung,SMA/SMK/sederajat,Buruh Harian Lepas,Rosilawati,Wafat,SMP,Pedagang,3,500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Negeri 4 PAGARALAM,IPS,6,8521,6,8678,5,905,DAPANI,Ayah Kandung,SMA/SMK/sederajat,PETANI,LIENA SUBIARTI,Wafat,SMP,Tidak bekerja,3,1000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 Sukakarya,IPS,5,84,7,84,7,86,Omo,Ayah Kandung,SMP,Petani,Ipit,Masih Hidup,SD,TIDAK BEKERJA,4,1500000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 23 JAKARTA,AKUNTANSI,,,,,,,Taufik,Ayah Kandung,SMP,Driver,Otih Rohayati,Masih Hidup,SMA/SMK/sederajat,Karyawan Swasta,4,2300000,3000000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK TRIDAYA JAKARTA TIMUR ,Akutansi Dan Keuangan Lembaga,10,83,10,84,8,85,IDA PURWANTO,Ayah Kandung,SMA/SMK/sederajat,Buruh (Sopir ),JURIAH,Wafat,SMP,IBU RUMAH TANGGA,5,500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,Smk Gelora Bekasi,Akuntansi dan keuangan,10,83,9,84,,,Pulnirman,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Eni Helda,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,3,0,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKS Kerabat Kita Bumiayu,Akutansi,14,80,13,82,12,83,Sudarno,Ayah Kandung,SD,Pedagang,Daripah,Masih Hidup,SD,Pedagang,5,2000000,1500000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Geo Informatika,Teknik Komputer dan Jaringan,3,86,5,86,3,87,Endang Lutfi,Ayah Kandung,SMA/SMK/sederajat,Pengantar air galon,Asih Lutfiah,Masih Hidup,SMP,Ibu rumah tangga + mengajar ngaji,5,2000000,500000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKS ISLAM ASSAADATUL ABADIYAH JAKARTA,AKUNTANSI DAN KEUANGAN LEMBAGA,28,80,0,80,21,80,ARIPIN,Ayah Kandung,SD,SUDAH WAFAT,WIWIN,Masih Hidup,SD,ASSISTAN RUMAH TANGGA,8,0,1400000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMA Negeri 2 Sungai Raya,IPA,16,81,14,82,12,84,Kaminsius,Ayah Kandung,SMA/SMK/sederajat,Buruh bangunan,Yustina,Masih Hidup,SD,Petani,5,2000000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negeri 1 Tirtamulya,Manajemen Perkantoran,9,78,6,80,3,83,Sanim Setiawan,Ayah Kandung,SD,Buruh Serabutan,Kaisah,Masih Hidup,SD,Ibu Rumah Tangga,4,2000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAS AL-BAIRUNI,IPS,,,,,,,Badri sanusi,Ayah Kandung,S1,Peg. Swasta,Masroyah,Masih Hidup,SD,TIDAK BEKERJA,6,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 2 SUNGAI RAYA,IPA,4,8607,3,8606,3,8726,ANDREAS TRI LAKSONO,Ayah Kandung,SMA/SMK/sederajat,BURUH,PUNGKY WAHYUNINGRUM,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,6,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 2 SUNGAI RAYA,IPA,7,8471,8,846,7,8633,Ikhwan,Ayah Kandung,SMA/SMK/sederajat,Petani,Yuliani,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,6,750000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK NEGERI 4 KAB. TANGERANG,Multimedia,19,82,24,81,17,84,Wahyadi Kusuma,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Wulandari Rahayu,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,4,0,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 18 BEKASI,MIPA,0,8093,0,8386,0,854,Jemmih,Ayah Kandung,SMA/SMK/sederajat,Ojek Online,Rahayu Yunanik,Masih Hidup,SMA/SMK/sederajat,Asisten Rumah Tangga,3,500000,1600000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMAN 1 CISEENG,IPA,15,81,15,84,15,86,HUSNI FADILLAH,Ayah Kandung,SMA/SMK/sederajat,PEGAWAI SWASTA,SULIESTIAWATI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,3,4000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negeri 2 Kota Tegal,Otomatisasi Tata Kelola Perkantoran,,,,,,,Agus Karna Wijaya,Ayah Kandung,SMA/SMK/sederajat,Sopir,Nunung Sri Umiati,Masih Hidup,SMP,Ibu Rmah Tangga,6,500000,0,1
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMK TI MUHAMMADIYAH CIKAMPEK,Teknik Kendaraan Ringan,9,8167,,,2,8313,Agus Solihin,Ayah Kandung,SMP,Buruh,Itoh Masitoh,Masih Hidup,SD,Ibu Rumah tangga,3,50000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Global Mandiri,Otomatisasi tata kelola perkantoran,2,82,2,84,2,85,Kartoli,Ayah Kandung,SD,-,Ruminah,Masih Hidup,SD,Pedagang,3,0,1000000,0
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMAN 3 KOTA TASIKMALAYA,MIPA,0,83,0,84,0,86,Ishak Mansur,Ayah Kandung,SMA/SMK/sederajat,Buruh Harian Lepas,Halimatus Sadiah,Masih Hidup,SD,Ibu Rumah Tangga,3,500000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMK CORPATARIN 01,AKUNTANSI,7,81,5,80,5,80,SANWANIH,Ayah Kandung,SMA/SMK/sederajat,SUPIR PENGANTAR BARANG,SUHENI,Masih Hidup,SD,IBU RUMAH TANGGA,5,3000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMAN 1 KLARI,IPS,8,82,6,84,6,86,Sahim,Ayah Kandung,SD,0,Aminah,Masih Hidup,SD,Ibu Rumah Tangga,4,0,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 RENGASDENGKLOK,Mipa,,,,,,,Endi,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Wati,Masih Hidup,SD,Pedagang ,7,2000000,250000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Smk PGRI 1 Karawang,Otomotif,3,90,2,92,4,86,Anang sumarna,Ayah Kandung,SD,Wirausaha,Nuraipah,Masih Hidup,SD,Wirausaha,4,80000,50000,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMA Negeri Jatinangor,IPS ,4,865,5,878,5,894,Mahyat,Ayah Kandung,SD,Buruh bangunan,Leni Indriani,Masih Hidup,SMP,Tidak bekerja / Ibu rumah tangga,5,2500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 TASIKMALAYA,IPA,29,84,28,873,27,882,Asep Suandana,Ayah Kandung,S1,-,Euis Ruhyati,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,2,0,750000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMK Negeri 1 Cimahi,Teknik Komputer dan Jaringan,8,82,7,83,6,84,Johan Poltak Clement Naibaho,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Lince Yuti Siregar,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,1000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMAN 3 TASIKMALAYA,PEMINATAN MATEMATIKA DAN ILMU PENGETAHUAN ALAM,15,84,10,86,9,88,ANWAR SANUSI,Ayah Kandung,SMP,Buruh,DEDE ADAWIYAH,Masih Hidup,SMP,Penjahit,4,800000,700000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 KRAMAT,MIPA,,83,,87,,,Casmo,Ayah Kandung,SD,Buruh harian lepas,Sri Rahayu,Masih Hidup,SD,Ibu rumah tangga,3,20000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 1 Kramat,MIPA,7,,,,,,Munarto,Ayah Kandung,SMA/SMK/sederajat,Tidak Bekerja,Kus Cut Mutia Safitri,Wafat,SD,-,3,0,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 1 KRAMAT,MIPA ,,,,,,,KASAN,Ayah Kandung,SD,BURUH,SETIOWATI,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,1250000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 KRAMAT,Mipa ,,83,,84,,86,HENDRA ARDIANSYAH,Ayah Kandung,SMA/SMK/sederajat,Pegawai Swasta,ENI SUSWANTI ,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,3,1500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Tunas Pemabangunan,TEKNIK KOMPUTER DAN JARINGAN ,5,85,4,89,3,8859,ABDUL RODJAK,Ayah Kandung,SMA/SMK/sederajat,TIDAK BEKERJA,CATUR SMEDINI ,Masih Hidup,SMA/SMK/sederajat,TIDAK BEKERJA ,4,0,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMKN 5 KOTA BEKASI,TEKNIK ELEKTRONIKA INDUSTRI,3,8364,2,8457,1,8539,Slamet Suprianto,Ayah Kandung,SMP,Buruh Harian Lepas,Yanti,Masih Hidup,SD,Mengurus Rumah Tangga,7,750000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA N 1 KRAMAT ,mipa,,,,,,,tarsono,Ayah Kandung,SMP,-,sariyah ,Masih Hidup,SD,asisten rumah tangga,3,0,500000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 5 Balikpapan,IPA,,81,,88,,88,Rozikin Bin Satori,Ayah Kandung,SMA/SMK/sederajat,Tidak Tetap,Darmawanti,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAS karya jaya Pangururan,IPA,1,81,1,87,3,85,Saritua Malau,Ayah Kandung,SMA/SMK/sederajat,Petani,Lukeria Tamba,Masih Hidup,SMP,Petani,4,750000,750000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,MA.Miftahul Huda,Ipa,2,92,2,93,3,92,Acu ,Ayah Kandung,SMP,Buruh,Nani,Wafat,SD,Ibu rumah tangga,2,0,0,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMA N 7 BATANG HARI,MIPA,0,8421,0,86,0,8871,YUSRI,Ayah Kandung,SMP,PETANI,ROSDIAN,Masih Hidup,SD,Ibu Rumah Tangga,4,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 5 TAMBUN SELATAN,IPS,11,86,10,90,10,92,Muhammad Akhram,Ayah Kandung,SMA/SMK/sederajat,Supir,Yani Badriani,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,3,500000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK Komputama Majenang,Perbankan Dan Keuangan Mikro,1,8562,1,88,1,9010,Emon Riswanto,Ayah Kandung,SMP,Penjahit,Wiwi Wiarsih,Masih Hidup,SMP,Ibu Rumah Tangga,5,2500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK,Akuntansi,3,83,4,827,2,844,Edi Suprapto,Ayah Kandung,SMA/SMK/sederajat,Driver,Sumiyati,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah tangga,3,1000000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Negeri 18 Jakarta,IPS,6,8485,7,865,10,865,Margono,Ayah Kandung,SMP,Tukang Servis,Ratiwen,Masih Hidup,SMP,Ibu Rumah Tangga,3,3500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMAN 75 JAKARTA,IPS,,,,,,,EDY SUMONO,Ayah Kandung,SMA/SMK/sederajat,BURUH,S SUPRAPTI S,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,5,1500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 95 JAKARTA,IPA,18,855,14,8721,11,8828,MAULANA SYARIF,Ayah Kandung,SMP,BURUH KONTRAK,KARNIAWATI,Masih Hidup,SMP,IBU RUMAH TANGGA,4,250000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMK Negeri 1 Tasikmalaya,Akuntansi,21,108050,17,92300,18,95831,Tatang Suwarna,Ayah Kandung,SMA/SMK/sederajat,Pedagang,Nia Rosdiana,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,1500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 36 JAKARTA,TEKNIK KOMPUTER DAN JARINGAN,18,8363,3,8533,3,8755,RAHMAD M ,Ayah Kandung,SMP,TIDAK BEKERJA,METANG,Masih Hidup,SMA/SMK/sederajat,BERDAGANG,10,0,1200000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMA Muhammadiyah 12 Jakarta,IPA fisika,,77,,80,,82,Muhamad Syukri,Ayah Kandung,D3,PHK (dirumahkan),Agustin rahmi yanti,Masih Hidup,D3,Ibu rumah tangga,5,3000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 53 Jakarta,Teknik Instalasi Tenaga Listrik,20,814,1,856,1,883,Sugito,Ayah Kandung,SMA/SMK/sederajat,Kuli Bangunan,Yuli Retnowati,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,4500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 12 DEPOK,IPS,5,84,1,84,2,85,Sudardjo,Ayah Kandung,SMP,Kuli Bangunan,Paryati,Masih Hidup,SMP,Ibu Rumah Tangga,5,2400000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 1 DEPOK,IPS,,,22,8595,,,Legino,Ayah Kandung,SMA/SMK/sederajat,GO-JEK,Rochimi,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,3,1700000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKS DINAMIKA PEMBANGUNAN 2 JAKARTA,Administrasi perkantoran,0,84,0,80,1,80,DWI HANDOKO,Ayah Kandung,SMA/SMK/sederajat,Buruh,YULIANTI,Masih Hidup,SMA/SMK/sederajat,Peg. Swasta,4,1500000,1250001,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMAN 3 CIREBON,MIPA,13,83,14,85,,,Aruman Rahadianto,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Dede Nur Aryani,Wafat,SMA/SMK/sederajat,Ibu rumah tangga,3,0,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2019,SMK NEGERI 47 JAKARTA,PEMASARAN,0,80,0,81,0,81,RUDI M NOOR HS,Ayah Kandung,SMA/SMK/sederajat,SENIMAN,ADE ENDAH SAFITRI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,5,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negeri 1 Raha,Administrasi Perkantoran,1,891,1,901,1,911,La Siri,Ayah Kandung,SD,Petani,Wa Fariia,Masih Hidup,SD,Ibu Rumah Tangga,5,500,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 1 Cikampek,Analisis Pengujian Laboratorium,15,79,20,81,17,83,Dayu,Ayah Kandung,SD,Buruh,Ade Priha,Masih Hidup,SD,Ibu Rumah Tangga,4,70000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMKN 1 PATOKBEUSI,Rekayasa Perangkat Lunak,0,79,0,86,0,88,Wahyudin,Ayah Kandung,SD,Amil,Sapni,Wafat,SD,-,6,500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negeri 2 Purwakarta,Bisnis Daring dan Pemasaran,0,84,10,86,0,86,Hujaini,Ayah Kandung,SMA/SMK/sederajat,Kuli bangunan,Hamidah,Masih Hidup,SD,Tidak bekerja,5,800000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Taruna Terpadu 1,Multimedia,,,,,,,Sakik,Ayah Kandung,SD,-,Imah,Masih Hidup,SD,Buruh,5,0,50000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 Sungai Kunyit,MIPA,22,80,9,83,14,84,Supriono,Ayah Kandung,SMA/SMK/sederajat,Buruh harian lepas,Wilida,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,9,1750000,300000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA N 1 JATILAWANG,IPS,,,,,,,Sukamto,Ayah Kandung,SMA/SMK/sederajat,-,Dwi Priyani,Masih Hidup,SMA/SMK/sederajat,Wirausaha,7,0,1000000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 1 TASIKMALAYA,MULTIMEDIA,5,839,4,8425,3,8487,Omo Herman,Ayah Kandung,SD,Sudah meninggal,Sri Janatin,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah tangga,6,0,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 2 Purwakarta,Akuntansi & Keuangan Lembaga,15,86,16,85,16,84,Ade Saefullah,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Nining Widyaningsih,Masih Hidup,SMA/SMK/sederajat,Ibu Tunggal,2,0,2500000,1
-Perempuan,Data Terpadu Kesejahteraan Sosial (DTKS),2021,SMAN 2 TEGAL,MIPA,6,83,10,82,4,86,Kismanto,Ayah Kandung,SMP,Tidak tau,Widjianti,Masih Hidup,SMA/SMK/sederajat,Pedagang,5,0,1500000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 1 KRAMAT,MIPA,,80,,84,,86,Tapari,Ayah Kandung,SMA/SMK/sederajat,Pegawai Swasta,Rumanah,Masih Hidup,SMP,Pedagang,3,0,1000000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMK PGRI 3 KOTA BOGOR,Akuntansi,8,80,8,80,8,80,Jajang Iskanda,Ayah Kandung,SMA/SMK/sederajat,karyawan swasta,Chodijah CHS,Wafat,SMA/SMK/sederajat,-,5,3500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 1 Tuhemberua,IPS,6,8507,5,8940,6,8833,Fa'awosa Gea (Alm),Ayah Kandung,Tidak sekolah,Tidak Bekerja,Rostina Zai (Alm),Wafat,Tidak sekolah,Tidak Bekerja,3,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA Muhammadiyah 2 Jakarta Pusat,IPS,2,82,9,84,9,84,Wahyudianto,Ayah Kandung,SMA/SMK/sederajat,dagang,Istiyah Asmalasari,Masih Hidup,SMP,Ibu Rumah Tangga,4,150000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMA NEGERI 1 PEDES,IPS,,,,,,,Endang kardini,Ayah Kandung,SD,Buruh tani harian lepas,Siti nurohmah,Masih Hidup,SD,Ibu rumah tangga,3,100000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK PGRI CIKAMPEK,Teknik Mesin,4,80,1,85,1,87,Khadirin,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Suharni,Masih Hidup,SMP,Wiraswasta,5,500000,500000,1
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMKS MUHAMMADIYAH 1 KOTA TEGAL,Teknik Instalasi Tenaga Listrik,1,90,1,98,1,88,Achmad Sofi,Ayah Tiri,SD,Buruh Harian Lepas,Leni Sugiarti,Masih Hidup,SMP,Ibu Rumah Tangga,4,1600000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Smk Negeri 1 Brebes,Teknik Komputer dan Jaringan,,81,,85,,85,Samli,Ayah Kandung,SD,Buruh,Turmi,Masih Hidup,SD,Ibu rumah tangga,5,2500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMA Negeri 94 Jakarta,Ips,17,81,19,76,19,77,Sutarto,Ayah Kandung,SMA/SMK/sederajat,Ojek Online,Suryani,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,3,0,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 17 JAKARTA,Akutansi dan Lembaga Keuangan,0,86,0,87,0,84,Nasim,Ayah Kandung,SD,Wiraswasta / Supir,Sumiati,Masih Hidup,SD,Ibu Rumah Tangga,4,1000000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Yadika 5,Teknologi Komputer Jaringan,20,8020,10,8389,14,8439,Antonius Sau,Ayah Kandung,SMP,Supir,Duma Romasta Sianipar,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,3000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK PUTRA BANGSA,Multimedia,2,758,4,84,7,835,Dian Satriawan,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta/Freelance,Dede Rohayati,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,3000000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK NEGERI 1 BREBES,TKJ,,838,,829,,859,Sanuri,Ayah Kandung,Tidak sekolah,Buruh Tani,Sukiroh,Wafat,Tidak sekolah,Tidak bekerja,8,1500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK TI Muhammadiyah 1 Cikampek,Teknik Kendaraan Ringan,0,81,0,82,0,76,Jupri,Ayah Kandung,SD,Buruh,Maryanah,Masih Hidup,SD,IRT,6,3000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA Negeri 1 Sengah Temila,Ilmu Pengetahuan Alam (IPA) ,2,8417,10,8375,8,8542,Reminus Dadot,Ayah Kandung,SMP,Petani,Irma,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,450000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA NEGERI 1 LOSARI,MIPA,15,80,24,8228,24,8435,ROHIMAN,Ayah Kandung,SD,Swasta,NATIROH,Masih Hidup,SMP,Ibu rumah tangga,4,2000000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Sma negeri 1 wanasari,IPA,8,801,6,856,6,853,Kusmantoro,Ayah Kandung,SMA/SMK/sederajat,Pedagang,Masnah,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga ,5,500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 2 PURBALINGGA,TKR ( teknik kendaraan ringan ),18,763,20,699,19,703,Sutrisno,Wali,SD,Wirausaha,Sukiyah,Wafat,SD,Ibu rumah tangga,8,500000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 12 JAKARTA,Rekayasa Perangkat lunak,0,8516,6,8827,10,8750,Johnny Golden Max Alie,Ayah Kandung,SMA/SMK/sederajat,Ojek Online,Rukmini Bague,Masih Hidup,SMP,Tidak bekerja,4,1000000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 8 GARUT,IPS,2,84,3,84,3,83,Dadang,Ayah Kandung,SD,Wiraswasta,Nunung,Masih Hidup,SMP,Tidak bekerja,10,500000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 13 DEPOK,MIPA,11,808,9,86,7,874,Sugiyono,Ayah Kandung,SMA/SMK/sederajat,Berdagang,Sudarti,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,5,1500000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 64 JAKARTA,IPA,9,8352,17,8614,15,8707,Mamat Mulyana,Ayah Kandung,SMP,Wiraswasta,Santi,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,11,2500000,0,1
-Laki-laki,Kartu Keluarga Sejahtera (KKS),2021,SMKN 1 Patokbeusi,Teknik Bisnis Sepeda Motor,,,,,,,Rahmin,Ayah Kandung,SD,petani ikan,kartini,Masih Hidup,S1,guru,3,2000000,400000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 2 PUTUSSIBAU,IPA,5,84,7,85,8,85,AHMADI,Ayah Kandung,SMA/SMK/sederajat,PETANI,SUSANTI,Masih Hidup,SMA/SMK/sederajat,IBU RUMAH TANGGA,5,500000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 24,TATA BUSANA,,814,,845,,84,SARYANTO,Ayah Kandung,SMA/SMK/sederajat,BURUH,N.NURHASANAH,Masih Hidup,SMP,IBU RUMAH TANGGA ,4,500000,750000,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,Sma negeri 1 wanasari,IPA,9,801,6,856,6,853,Kusmantoro,Ayah Kandung,SMA/SMK/sederajat,Pedagang,Masnah,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,500000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2019,SMA s tunas bangsa,Ilmu pengetahuan sosial,0,82,0,80,0,82,Arisman hulu,Ayah Kandung,SD,Petani,Desiria dawolo,Masih Hidup,SD,Ibu rumah tangga,7,1000000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,PKBM ELPAMAS,IPS,6,80,3,82,5,82,Samuri,Ayah Kandung,SD,Petani,Susmi ,Masih Hidup,SD,Ibu Rumah Tangga,3,300000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK AN NUR AL MUNTAHY,TKJ (Teknik Komputer & Jaringan),,,,807,,817,Karyo Bin Bahari,Ayah Kandung,SMP,Satpam Komplek,Sariya,Masih Hidup,Tidak sekolah,Ibu rumah tangga,7,1200000,850000,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Diponegoro Lebaksiu,Teknik Kendaraan Ringan,6,83,13,84,6,86,Nur Soleh,Ayah Kandung,SMP,Buruh,Wasidah,Wafat,SD,Sudah wafat,6,500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 10 JAKARTA,OTOMATISASI TATA KELOLA PERKANTORAN,13,85,9,89,,88,YUSUF ARIANSYAH,Ayah Kandung,SMA/SMK/sederajat,TIDAK BEKERJA,LINDA SURYANI,Masih Hidup,SMA/SMK/sederajat,TIDAK BEKERJA,4,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMA Negeri 1 Kramat,MIPA,,81,,83,,84,Watram,Ayah Kandung,Tidak sekolah,buruh,kaswen,Masih Hidup,SD,ibu rumah tangga,4,500000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,SMK Taruna Terpadu 1,Administrasi perkantoran,,86,,85,,89,Dedi Junaedi,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Rika Julianti,Masih Hidup,SMP,Lady pantry/ office girl,8,0,4100000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK Negeri 2 Purwakarta,Akuntansi Keuangan dan Lembaga,25,85,24,85,27,82,Amung Sutisna,Ayah Kandung,SD,Petani/Pekebun,Icah,Masih Hidup,SD,Tidak bekerja/ ibu rumah tangga.,5,1500000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 1 SUKOHARJO,Teknik Komputer dan Jaringan,29,81,27,66,27,69,Wakiran,Ayah Kandung,SMA/SMK/sederajat,Buruh,Anik Priyanti,Masih Hidup,SD,Ibu rumah tangga,5,0,500000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 1 Batangonang,IPA,1,96,1,97,1,96,Asrul Habib Harahap,Ayah Kandung,SMA/SMK/sederajat,Petani,Masdawani Siregar,Masih Hidup,SMA/SMK/sederajat,Petani,5,500000,500000,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK MUHAMMADIYAH 6 ,ADMINISTRASI PERKANTORAN,8,82,10,81,9,82,SAEPUDIN,Ayah Kandung,SD,WIRAUSAHA,wiwin,Masih Hidup,SD,tidak bekerja,4,70000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK Islam Said Naum Jakarta,Akuntansi,0,83,0,85,0,87,Fajar Alamsyah,Ayah Kandung,SMA/SMK/sederajat,Tidak Bekerja,Linda Susanty,Wafat,SMA/SMK/sederajat,Ibu Rumah Tangga,3,2000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMA Swasta Pelita,Ilmu pengetahuan sosial,,79,,80,,85,Piter situmorang,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta,Rosmawaty Sinaga,Masih Hidup,SMP,Wiraswasta,7,25,18,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,PKBM Cahaya Bangsa,IPS,,,,,,,Kusmadi,Ayah Kandung,SMA/SMK/sederajat,Ojek online (gojek),Warsiti,Masih Hidup,SMP,Mengurus rumah tangga,5,1500000,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMA negeri 1 tamansari,Ips,12,84,,85,,87,Ajid (alm),Ayah Kandung,SD,-,Asih,Masih Hidup,SD,Asisten rumah tangga,4,0,1000000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMK Jakarta timur 1,Akuntansi dan keuangan lembaga,,7612,,8025,,8175,Taufik AB,Ayah Kandung,SMA/SMK/sederajat,Pensiun,Winarti,Masih Hidup,SMP,Laundry,7,500000,2000000,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMK Satya Bhakti 2,Administrasi Perkantoran ,26,84,6,83,1,85,Sutarno,Ayah Kandung,SD,Tidak Bekerja,Siti Sarah,Masih Hidup,SD,Berdagang,5,0,200000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK AL-MADANI,RPL,14,8281,15,8128,14,8281,Darsani,Ayah Kandung,SMA/SMK/sederajat,Pekerja swasta,Erni Yusmita,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,6,0,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKS Samudera Buana,Otomatisasi dan Tata Kelola Perkantoran,29,7823,25,7958,,8400,Lili,Ayah Kandung,SD,Pedagang Kecil,Sani,Masih Hidup,SD,Ibu Rumah Tangga,4,800000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021, SMKS SAMUDERA BUANA LANGKAPLANCAR,Otomatisasi & Tata Kelola Perkantoran,9,75,8,81,,,SURYAMAN,Ayah Kandung,SD,PETANI,ESAH,Masih Hidup,SD,PETANI,2,0,250000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 21 JAKARTA PUSAT ,BISNIS DARING DAN PEMASARAN ,0,85,0,84,0,85,Painian Arifudin,Ayah Kandung,SMP,Pedagang ,Hasanah,Masih Hidup,SMP,Ibu Rumah Tangga ,6,2000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 2 Kec. Guguak,Multimedia,2,8714,5,8551,4,889,Musguito,Ayah Kandung,SMA/SMK/sederajat,Petani,Indra saputri,Masih Hidup,SMP,Ibu Rumah Tangga,5,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK NEGERI 21 JAKARTA,Bisnis daring dan pemasaran,0,84,0,85,0,84,Sadirin,Ayah Tiri,SMP,Wirausaha ,Hikmah,Masih Hidup,SD,Ibu rumah tangga,5,100000,0,0
-Laki-laki,Program Keluarga Harapan (PKH),2019,Smk nawa bhakti kebumen,Teknik pemesinan,,,,,,,Kawanto,Ayah Kandung,SD,-,Sukati,Masih Hidup,SD,Ibu rumah tangga,4,0,0,1
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,smknp 1 sukaraja,Teknik Komputer Jaringan,6,83,4,76,5,8086,dede erwin,Ayah Kandung,SMA/SMK/sederajat,wiraswasta,pipit pitriyani,Masih Hidup,SD,ibu rumah tangga,4,2500000,0,1
-Laki-laki,Program Keluarga Harapan (PKH),2019,SMK YP IPPI PETOJO ,Teknik komputer dan jaringan ,10,79,8,79,6,80,Rudy,Ayah Kandung,SMP,Pengurus masjid (marbot),Vera mahfiroh,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,26,500000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negeri 8 Jakarta,Otomatisasi dan Tata Kelola Perkantoran,2,96,19,89,22,90,Kusnadi,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Omay,Masih Hidup,SMP,Ibu Rumah Tangga,5,3500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,MAS AL AHLIYAH,Ilmu Pengetahuan Sosial ,4,836,4,860,5,879,Agus Moh. Toha,Ayah Kandung,S1,Buruh harian lepas,Ratna Ramdania,Masih Hidup,S1,Guru honorer,4,1000000,250000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 2 CIKARANG UTARA,IPA,11,81,10,82,10,85,Suhartono,Ayah Kandung,D3,Pensiunan,Nur Azizah,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,3,1000000,300000,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 1 TIRTAMULYA - Kab. Karawang,Teknik Instalasi Tenaga Llistrik (TITL),1,81,1,80,1,0,Iwan,Ayah Kandung,SD,Buruh,Teti,Masih Hidup,SMP,Ibu Rumah Tangga,6,1250000,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMKN 16 Jakarta,Akuntansi,,848,,846,,,Alm. Hidayat,Ayah Kandung,SMA/SMK/sederajat,-,Sari rejeki mahani,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,4,0,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2019,SMAS ISLAM T. HUDA BUMIAYU,IPA,,85,,84,,82,Solikhin,Ayah Kandung,SMA/SMK/sederajat,Dagang,Fatatun Azizah,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,2500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,Smk karya bhakti,Akuntansi,2,87,1,85,1,87,Edi suswanto,Ayah Kandung,SMA/SMK/sederajat,Ojek online,Soimah ,Masih Hidup,SMA/SMK/sederajat,Pedagang sayur keliling,4,25000,50000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKS Nusantara 1 Ciputat,Multimedia,1,8885,2,8938,2,8792,Muhamad Salahudin,Ayah Kandung,SMA/SMK/sederajat,Sekuriti,Sukarmi,Masih Hidup,SMA/SMK/sederajat,Usaha Warung Makan,3,3491173,1000000,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK NEGERI 9 JAKARTA,Otomatisasi Tata Kelola Perkantoran,24,8175,8,86,,85,Anang Subiakto,Ayah Kandung,SMA/SMK/sederajat,Satpam,Nasichah,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,4800000,0,0
-Perempuan,Data Terpadu Kesejahteraan Sosial (DTKS),2021,Industri teknologi nasional ,Teknik komputer jaringan ,2,83,4,82,7,85,Asep cahya,Ayah Kandung,SMA/SMK/sederajat,Buruh,Iyoh rohasih,Masih Hidup,SMP,Ibu rumah tangga,5,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 14 JAKARTA,IPS,14,8685,13,8921,12,,Jarisman,Ayah Kandung,SMA/SMK/sederajat,Ojek Online,Rukmini,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKS TUNAS TEKNOLOGI - Kab. Bekasi,Teknik Kendaraan Ringan,0,75,0,75,0,75,Suaip,Ayah Kandung,SD,Pedagang,Asnah,Masih Hidup,SD,Ibu Rumah Tangga,4,2000000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMA,IPS,25,8514,26,8635,24,88,Agus Priyatno,Ayah Kandung,SMA/SMK/sederajat,Karyawan swasta,Linda,Masih Hidup,SMA/SMK/sederajat,Wiraswasta,4,0,1000000,1
-Laki-laki,Program Keluarga Harapan (PKH),2019,SMK NAWA BHAKTI KEBUMEN,TEKNIK PEMESINAN,,,,,,,KAWANTO,Ayah Kandung,SD,-,SUKATI ,Masih Hidup,SD,-,4,0,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK N 3 SUKOHARJO,OTOMOTIF,6,829,3,803,3,813,KARYADI,Ayah Kandung,SMP,KARYAWAN SWASTA,SRI MULYANI,Masih Hidup,SD,IBU RUMAH TANGGA,4,2000000,0,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMAN 24 Kabupaten Tangerang ,IPS,,82,,84,,89,Zulfikar,Ayah Kandung,SMA/SMK/sederajat,Wiraswasta ,Nurmala,Masih Hidup,S1,Guru,3,0,3860000,0
-Perempuan,Kartu Keluarga Sejahtera (KKS),2021,SMK,Akuntansi,,82,9,87,,,Satiman,Ayah Kandung,SD,Buruh harian lepas,SRI MULYA,Masih Hidup,SD,Ibu rumah tangga,5,500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK PARIWISATA METLAND ,Multimedia,,,,,,,Nowo Suprojo ,Ayah Kandung,S1,Swasta,Lilis Kurniawati,Masih Hidup,S1,Ibu rumah tangga,5,3000000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 1 SETU - Kab. Bekasi,Teknik Elektronika,3,85,2,87,0,87,Siswanto,Ayah Kandung,SMA/SMK/sederajat,Peg. Swasta,Sri Lestari,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,4,3800000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMK PGRI 2 CIBINONG,Multimedia,4,87,6,78,5,85,Donny Sjafardan,Ayah Kandung,S2,Tidak bekerja (pensiun),Dewi Koraeni,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,4,0,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMKN 1 Rengasdengklok,Teknik Pemeliharaan Mekanik Industri,9,8020,8,7854,0,8062,Tamin,Ayah Kandung,Tidak sekolah,Wiraswasta,Winasih,Masih Hidup,Tidak sekolah,Ibu Rumah Tangga,3,1500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMKS PGRI 38 Jakarta Utara,Teknik bisnis sepeda motor,14,76,15,77,14,76,Abdur Rohman,Ayah Kandung,SMP,PPSU,Yanti,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,3800000,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2020,MA NEGERI 4 KARAWANG,IPA,3,83,3,82,2,86,SALIP,Ayah Kandung,SMP,BURUH HARIAN LEPAS,ENGKAR,Masih Hidup,SMP,IBU RUMAH TANGGA,4,650000,250000,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMKS HARAPAN BARU - Kota Bekasi,Manajemen Pemasaran,0,83,0,80,0,80,Warsim,Ayah Kandung,SMA/SMK/sederajat,Wirausaha,Wari Sastari,Masih Hidup,SD,Ibu Rumah Tangga,5,1500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,MA Darussalam,IPS,5,81,1,90,3,89,Asep Karyana,Ayah Kandung,SMA/SMK/sederajat,Sopir,Sane,Masih Hidup,SMA/SMK/sederajat,Penjual seblak,4,2200000,400000,1
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,Smkn 19 Jakarta,Otomatisasi dan tata kelola perkantoran,,8436,12,846,,8756,Harudin,Ayah Kandung,SMA/SMK/sederajat,Ojek online,Mifrochatun,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,6,2500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMKN 21 Jakarta,Bisnis Daring dan Pemasaran,6,85,18,85,0,86,Iqbal Baitullah,Ayah Kandung,SMA/SMK/sederajat,Tidak ada,Farida,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,3,0,0,0
-Perempuan,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMA NEGERI 1 SIANTAN,Mipa,1,895,1,8864,1,8985,Zainal,Ayah Kandung,SD,Nelayan/petani,Mauizah,Masih Hidup,SMA/SMK/sederajat,Ibu rumah tangga,5,1500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMK 1 BARUNAWATI,Multimedia,5,85,5,82,4,86,Sudirman,Ayah Kandung,SMA/SMK/sederajat,Karyawan Toko,Nurmailis,Masih Hidup,S1,Ibu Rumah Tangga,4,2500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA NEGERI 1 SIANTAN,IPA,6,8642,5,8664,8,8842,EDDY MEISA,Ayah Kandung,SMA/SMK/sederajat,Swasta,RATNA,Masih Hidup,SD,Ibu rumah tangga,4,1500000,0,1
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2019,SMAN 2 Purwokerto,MIPA,,88,,88,,88,Rudi Hestiaji,Ayah Kandung,SMA/SMK/sederajat,Tidak bekerja,Masirih,Masih Hidup,SD,Ibu rumah tangga,7,0,0,0
-Perempuan,Surat Keterangan Tidak Mampu (SKTM),2021,SMA waskito,Ips,15,84,10,88,10,88,Eklas Surya Wijaya,Ayah Kandung,SMA/SMK/sederajat,Karyawan swasta,Rosita dewi,Masih Hidup,SMA/SMK/sederajat,Tidak bekerja,5,3500000,0,0
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Al-Irsyad Tegal,Rekayasa Perangkat Lunak ( RPL ),7,8017,8,8269,7,8344,Eko Pujiono,Ayah Kandung,SMA/SMK/sederajat,Buruh Harian Lepas,Ratna Dewi,Masih Hidup,SD,Mengurus Rumah Tangga,5,1900000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2020,SMA AL-HUDA IECM,IPS,11,81,3,83,5,83,Alm. Jamhuri,Ayah Kandung,SD,Buruh,Aliyah,Masih Hidup,Tidak sekolah,Jualan nasi uduk,3,0,500000,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2020,SMA N 1 SOMPAK,IPS,25,79,23,81,22,82,Suhardi,Ayah Kandung,SMA/SMK/sederajat,Buruh Petani,Nurhayati,Masih Hidup,Tidak sekolah,Buruh Petani,5,1200000,0,1
-Laki-laki,Kartu Indonesia Pintar (KIP) yang dimiliki saat SMA/SMK (bukan dari website KIP Kuliah),2021,SMK Negri 34 Jakarta,Multimedia,11,85,16,83,2,85,Andriansah,Ayah Kandung,SMA/SMK/sederajat,Karyawan Swasta,Heny Nurcahyati,Masih Hidup,SMA/SMK/sederajat,Ibu Rumah Tangga,5,3500000,0,1
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMAS ADVENT TELADAN,IPA,7,80,8,77,6,82,JEDDY HELBERT PANGGABEAN,Ayah Kandung,SMA/SMK/sederajat,PETANI,NURMAWATI br.TINJAK,Masih Hidup,SMA/SMK/sederajat,TIDAK BEKERJA,3,1500000,0,0
-Laki-laki,Surat Keterangan Tidak Mampu (SKTM),2021,SMAN 1 DEPOK,IPS,28,83,17,89,15,90,Rizal Haskar,Ayah Kandung,S1,Marbot masjid,Maya Sjartina,Masih Hidup,D3,Ibu rumah tangga,5,1000000,0,0
+Kelamin,Jurusan,Rata-ratasem4,Rata-ratasem5,Rata-ratasem6,JumlahOrangTinggal,PenghasilanAyah(Rupiah),PenghasilanIbu(Rupiah),Jumlahpenghasilan,Kepemilikanrumah,Luas Bangunan (M2),Bahan Lantai,Diterima/tdk,,,,,
+Laki-laki,IPS,85,85,85,4,1000000,0,1000000,Menumpang,60,Ubin,1,,,,,
+Perempuan,IPS,835,857,0,6,1000000,0,1000000,Milik Sendiri,40,Keramik,0,,,,,
+Perempuan,Rekayasa Perangkat Lunak,916,768,0,3,2700000,0,2700000,Milik Sendiri,88,Keramik,0,,,,,
+Perempuan,IPS ,818,83,,4,1500000,0,1500000,Milik Sendiri,65,Keramik,1,,,,,
+Laki-laki,IPA,77,78,81,6,0,0,0,Menumpang,50,Ubin,0,,,,,
+Perempuan,akuntansi,83,91,92,10,0,0,0,Menumpang,45,Keramik,0,,,,,
+Laki-laki,Rekayasa Perangkat Lunak ,94235,7708,0,8,3000000,0,3000000,Milik Sendiri,118,Keramik,1,,,,,
+Laki-laki,AKUNTANSI,835,8021,8342,4,2500000,0,2500000,Milik Sendiri,42,Semen Plaster,1,,,,,
+Laki-laki,AKUNTANSI,813,846,867,4,2000000,0,2000000,Milik Sendiri,7,Keramik,0,,,,,
+Perempuan,Ilmu Ilmu Sosial (IIS/IPS) ,82,83,85,4,0,0,0,Milik Sendiri,40,Semen Plaster,1,,,,,
+Perempuan,Ipa,826,843,841,6,1500000,0,1500000,Menumpang,60,Keramik,1,,,,,
+Perempuan,Jurusan IPS,8513,8657,8792,4,4000000,0,4000000,Sewa Bulanan,15,Semen Plaster,0,,,,,
+Perempuan,Bisnis Daring dan Pemasaran,7900,809,821,4,2800000,0,2800000,Sewa Bulanan,21,Keramik,1,,,,,
+Laki-laki,IPS,83,86,87,6,1000000,600000,1600000,Milik Sendiri,7,Tanah,0,,,,,
+Perempuan,IPA,84,86,87,3,0,600000,600000,Milik Sendiri,70,Semen Plaster,1,,,,,
+Perempuan,IPA,84,90,92,5,2000000,0,2000000,Milik Sendiri,64,Keramik,1,,,,,
+Perempuan,Mipa,82,84,86,7,2000000,0,2000000,Milik Sendiri,81,Keramik,1,,,,,
+Perempuan,IPA,84,87,89,3,600000,0,600000,Menumpang,200,Semen Plaster,0,,,,,
+Perempuan,IPS,82,835,883,2,2000000,500000,2500000,Sewa Bulanan,25,Ubin,0,,,,,
+Perempuan,KEPERAWATAN,83,83,85,5,2000000,0,2000000,Milik Sendiri,50,Ubin,1,,,,,
+Perempuan,IPA,87,85,87,4,300000,300000,600000,Menumpang,63,Ubin,0,,,,,
+Perempuan,IPA,84,84,84,5,0,0,0,Menumpang,10,Kayu,0,,,,,
+Perempuan,IPS,87,86,88,4,500000,500000,1000000,Milik Sendiri,0,Semen Plaster,1,,,,,
+Perempuan,IPA,80,79,81,4,2000000,0,2000000,Milik Sendiri,54,Keramik,0,,,,,
+Perempuan,IPS,88,89,90,5,5000000,0,5000000,Milik Sendiri,25,Keramik,0,,,,,
+Perempuan,Administrasi perkantoran,76,76,76,5,4000000,0,4000000,Sewa Bulanan,30,Keramik,1,,,,,
+Perempuan,Akuntansi ,845,855,89,7,3000000,0,3000000,Menumpang,27,Semen Plaster,0,,,,,
+Perempuan,ADMINISTRASI PERKANTORAN,80,76,89,4,3500000,0,3500000,Milik Sendiri,50,Ubin,1,,,,,
+Perempuan,ADMINISTRASI PERKANTORAN,80,80,80,5,500000,0,500000,Sewa Bulanan,0,Ubin,1,,,,,
+Perempuan,IPS,80,83,87,5,750000,0,750000,Milik Sendiri,72,Kayu,1,,,,,
+Perempuan,Ips,82,8353,83,6,1000000,0,1000000,Milik Sendiri,80,Semen Plaster,0,,,,,
+Perempuan,IPA,8157,8310,8573,4,200000,0,200000,Milik Sendiri,56,Ubin,1,,,,,
+Perempuan,IPS ,92,92,92,7,1000000,0,1000000,Milik Sendiri,50,Keramik,0,,,,,
+Perempuan,IPA,88,89,91,5,500000,0,500000,Milik Sendiri,78,Ubin,1,,,,,
+Laki-laki,Teknik Komputer dan Jaringan,789,781,799,10,0,2500000,2500000,Menumpang,36,Ubin,1,,,,,
+Perempuan,Akuntasi ,8066,8383,8466,5,0,0,0,Sewa Bulanan,60,Ubin,1,,,,,
+Perempuan,DPIB,83,85,86,6,0,0,0,Milik Sendiri,50,Ubin,1,,,,,
+Perempuan,TKJ,8508,8564,,9,0,1300000,1300000,Menumpang,8,Keramik,0,,,,,
+Perempuan,IPS,84,87,87,4,2000000,0,2000000,Menumpang,10,Keramik,1,,,,,
+Perempuan,IPS,8273,83,849,6,1500000,0,1500000,Milik Sendiri,45,Semen Plaster,1,,,,,
+Laki-laki,TEKNIK KENDARAAN RINGAN,84,82,86,5,0,300000,300000,Menumpang,25,Keramik,1,,,,,
+Perempuan,IPS,,,,4,1600000,0,1600000,Milik Sendiri,16,Ubin,1,,,,,
+Perempuan,Rekayasa perangkat lunak,8175,8325,8351,6,70000,0,70000,Milik Sendiri,54,Keramik,1,,,,,
+Laki-laki,IPS,85,85,85,3,1000000,0,1000000,Milik Sendiri,80,Ubin,1,,,,,
+Laki-laki,Ilmu Pengetahuan Alam,79,81,82,6,3000000,0,3000000,Milik Sendiri,90,Keramik,1,,,,,
+Perempuan,IPA,83,85,87,4,3000000,0,3000000,Milik Sendiri,35,Keramik,0,,,,,
+Laki-laki,IPA,924,934,9406,4,1500000,0,1500000,Menumpang,34,Kayu,1,,,,,
+Perempuan,Mipa,8057,8142,8314,6,0,2500000,2500000,Menumpang,17,Keramik,1,,,,,
+Laki-laki,Rekayasa Perangkat Lunak,89,90,,6,0,2000000,2000000,Menumpang,30,Keramik,0,,,,,
+Perempuan,akuntansi ,8039,8147,7988,4,1500000,0,1500000,Sewa Bulanan,60,Keramik,1,,,,,
+Perempuan,IPA,804,817,848,4,0,250000,250000,Milik Sendiri,45,Keramik,1,,,,,
+Perempuan,Akuntansi,,,,5,2500000,0,2500000,Sewa Bulanan,40,Semen Plaster,1,,,,,
+Laki-laki,TKRO,8418,8473,8891,5,1500000,0,1500000,Milik Sendiri,60,Keramik,0,,,,,
+Perempuan,IPS,82,81,77,3,1000000,100000,1100000,Milik Sendiri,24,Semen Plaster,0,,,,,
+Perempuan,Administrasi Perkantoran,83,83,84,5,2000000,0,2000000,Menumpang,65,Ubin,1,,,,,
+Perempuan,Ilmu Pengetahuan Alam,80,80,81,4,0,100000,100000,Milik Sendiri,50,Ubin,1,,,,,
+Perempuan,Rekayasa Perangkat Lunak,81,82,83,6,1000000,0,1000000,Milik Sendiri,45,Keramik,1,,,,,
+Perempuan,Rekayasa perangkat lunak,81,79,856,5,750000,50000,800000,Milik Sendiri,30,Tanah,1,,,,,
+Perempuan,IPS,8086,8126,8293,6,200000,0,200000,Menumpang,60,Keramik,0,,,,,
+Perempuan,Administrasi perkantoran,84,91,92,7,30000,0,30000,Menumpang,60,Ubin,0,,,,,
+Perempuan,MIPA,84,85,85,3,0,300000,300000,Milik Sendiri,60,Keramik,1,,,,,
+Perempuan,IPA,85,863,,4,500000,0,500000,Milik Sendiri,55,Semen Plaster,1,,,,,
+Perempuan,Ips,1449,1494,1677,5,1750000,0,1750000,Menumpang,25,Ubin,1,,,,,
+Laki-laki,MIPA,85,86,89,3,650000,200000,850000,Milik Sendiri,100,Keramik,0,,,,,
+Laki-laki,Teknik Komputer dan Jaringan,75,80,81,4,1500000,0,1500000,Milik Sendiri,60,Keramik,1,,,,,
+Perempuan,MIPA,8307,836,8453,5,500000,0,500000,Milik Sendiri,80,Keramik,1,,,,,
+Perempuan,IPS,80,84,86,7,0,1000000,1000000,Milik Sendiri,15,Semen Plaster,1,,,,,
+Perempuan,IPA,7505,8406,8552,9,500000,0,500000,Menumpang,93,Keramik,0,,,,,
+Perempuan,Teknik Komputer dan Jaringan,8187,8008,8367,3,750000,0,750000,Menumpang,25,Ubin,1,,,,,
+Perempuan,Tata Busana,80,80,79,6,0,0,0,Milik Sendiri,47,Ubin,1,,,,,
+Perempuan,MIPA,82,83,85,6,3000000,0,3000000,Menumpang,64,Keramik,0,,,,,
+Perempuan,AKOMODASI PERHOTELAN,80,80,85,5,3000000,1000000,4000000,Milik Sendiri,30,Semen Plaster,1,,,,,
+Perempuan,IPA,872,852,876,3,300000,0,300000,Milik Sendiri,130,Keramik,1,,,,,
+Laki-laki,multimedia,82,78,80,4,2000000,0,2000000,Milik Sendiri,6,Keramik,0,,,,,
+Laki-laki,Ilmu Pengetahuan Sosial,843,862,888,3,0,2000000,2000000,Milik Sendiri,40,Keramik,1,,,,,
+Laki-laki,TEHNIK INSTALASI TENAGA LISTRIK,794,836,835,32,4000000,0,4000000,Milik Sendiri,42,Keramik,0,,,,,
+Perempuan,Ips,,,,7,2000000,0,2000000,Sewa Bulanan,90,Semen Plaster,0,,,,,
+Perempuan,Administrasi perkantoran,84,87,86,4,900000,3000000,3900000,Menumpang,45,Keramik,1,,,,,
+Laki-laki,REKAYASA PERANGKAT LUNAK,70,70,70,6,0,0,0,Menumpang,6,Keramik,1,,,,,
+Laki-laki,Teknologi komputer dan jaringan,85,87,85,3,500,0,500,Milik Sendiri,25,Keramik,0,,,,,
+Perempuan,Teknik Komputer dan Jaringan,,,,5,1000000,0,1000000,Milik Sendiri,100,Ubin,1,,,,,
+Perempuan,IPA,8545,8845,8860,3,2900000,0,2900000,Milik Sendiri,92,Keramik,0,,,,,
+Perempuan,Otomatisasi Tata Kelola Perkantoran ,80,84,85,8,250000,0,250000,Menumpang,30,Keramik,1,,,,,
+Laki-laki,DARING,82,82,84,8,4000000,0,4000000,Menumpang,25,Keramik,1,,,,,
+Laki-laki,MIPA,83,84,86,2,0,300000,300000,Milik Sendiri,140,Ubin,0,,,,,
+Perempuan,IPA,822,8333,846,4,20000,2400000,2420000,Milik Sendiri,10,Keramik,0,,,,,
+Laki-laki,IPA,70,70,75,10,0,0,0,Milik Sendiri,50,Tanah,0,,,,,
+Perempuan,Teknik Elektronika Industri,80,82,82,4,1750000,0,1750000,Milik Sendiri,25,Keramik,1,,,,,
+Laki-laki,MIPA,83,853,86,5,1200000,0,1200000,Sewa Bulanan,10,Keramik,1,,,,,
+Perempuan,Akuntansi,85,85,85,4,0,500,500,Milik Sendiri,20,Ubin,0,,,,,
+Laki-laki,Rekayasa Perangkat Lunak,8558,85,855,6,2000000,0,2000000,Milik Sendiri,90,Keramik,1,,,,,
+Perempuan,Perhotelan,914,765,772,3,0,0,0,Sewa Bulanan,15,Ubin,1,,,,,
+Perempuan,TKJ,87,82,,4,35000,0,35000,Milik Sendiri,63,Semen Plaster,1,,,,,
+Perempuan,Multimedia,827,83,851,2,1000000,0,1000000,Menumpang,99,Semen Plaster,0,,,,,
+Laki-laki,Multimedia,85,86,85,4,500000,0,500000,Milik Sendiri,54,Keramik,1,,,,,
+Perempuan,pemasaran,79,81,84,6,1800000,0,1800000,Menumpang,79,Keramik,0,,,,,
+Perempuan,Akuntansi dan keuangan lembaga,81,85,84,6,2000000,0,2000000,Sewa Bulanan,25,Ubin,1,,,,,
+Perempuan,Teknik Bisnis Sepeda Motor ,945,977,993,5,70000,100000,170000,Milik Sendiri,50,Keramik,1,,,,,
+Perempuan,IPS,87,87,83,4,1500000,1000000,2500000,Milik Sendiri,60,Keramik,1,,,,,
+Perempuan,Akuntansi,8536,8554,88,5,3000000,1000000,4000000,Milik Sendiri,50,Keramik,1,,,,,
+Laki-laki,IPA,81,83,85,4,1500000,500000,2000000,Milik Sendiri,100,Keramik,0,,,,,
+Perempuan,IPS,,,,3,3000000,0,3000000,Menumpang,25,Ubin,1,,,,,
+Perempuan,MIPA,847,845,854,6,0,500000,500000,Milik Sendiri,10,Semen Plaster,1,,,,,
+Perempuan,IPA,92,95,93,4,3000000,0,3000000,Sewa Bulanan,25,Keramik,1,,,,,
+Perempuan,Ips,84,87,89,5,0,800000,800000,Sewa Bulanan,60,Keramik,0,,,,,
+Perempuan,AKUNTANSI,85,83,85,3,0,2000000,2000000,Menumpang,235,Ubin,0,,,,,
+Laki-laki,Akuntansi dan Keuangan Lembaga,8833,8836,88,4,0,840000,840000,Milik Sendiri,50,Keramik,0,,,,,
+Laki-laki,Akomodasi Perhotelan,82,81,84,20,0,0,0,Menumpang,24,Keramik,1,,,,,
+Perempuan,Manajemen Perkantoran,78,79,82,3,1050000,1000000,2050000,Menumpang,25,Keramik,1,,,,,
+Perempuan,Akuntansi,84,82,83,6,250000,0,250000,Milik Sendiri,25,Keramik,1,,,,,
+Laki-laki,Teknik Instalasi Tenaga Listrik,80,82,83,4,3000000,0,3000000,Milik Sendiri,25,Keramik,0,,,,,
+Perempuan,Teknik Komputer dan Jaringan,834,84,856,4,1500000,0,1500000,Milik Sendiri,100,Semen Plaster,1,,,,,
+Perempuan,Akuntansi,8,8,8,4,2500000,0,2500000,Milik Sendiri,25,Ubin,1,,,,,
+Perempuan,AKUNTANSI DAN KEUANGAN LEMBAGA,88,88,89,4,0,0,0,Menumpang,45,Keramik,1,,,,,
+Laki-laki,IPS,,,,3,1500000,0,1500000,Milik Sendiri,50,Ubin,1,,,,,
+Laki-laki,Teknik Audio dan vidio,,,,4,3000000,0,3000000,Milik Sendiri,50,Ubin,1,,,,,
+Perempuan,Akuntansi,80,81,,4,250000,0,250000,Milik Sendiri,25,Tanah,1,,,,,
+Laki-laki,Teknik Komputer dan Jaringan ,86,86,86,4,2000000,0,2000000,Menumpang,1825,Semen Plaster,1,,,,,
+Perempuan,Akuntansi dan Keuangan Lembaga,88,87,89,6,0,0,0,Menumpang,8,Keramik,1,,,,,
+Perempuan,AKUNTANSI DAN KEUANGAN,86,87,87,5,3000000,0,3000000,Milik Sendiri,30,Keramik,1,,,,,
+Perempuan,Farmasi,8661,8916,9175,4,500000,0,500000,Milik Sendiri,7,Keramik,0,,,,,
+Perempuan,Akuntansi,80,80,80,3,900000,0,900000,Milik Sendiri,60,Keramik,0,,,,,
+Perempuan,Akunransi,80,81,,4,250000,0,250000,Milik Sendiri,25,Tanah,1,,,,,
+Perempuan,IPA,80,85,80,5,1500000,0,1500000,Milik Sendiri,25,Tanah,1,,,,,
+Perempuan,Administrasi Perkantoran,80,87,87,4,0,0,0,Milik Sendiri,70,Keramik,1,,,,,
+Perempuan,Analisis Pengujian Laboratorium,81,82,83,4,0,1000000,1000000,Sewa Bulanan,0,Ubin,1,,,,,
+Laki-laki,Teknik komputer dan jaringan,84,807,843,5,1500000,1000000,2500000,Milik Sendiri,84,Keramik,1,,,,,
+Perempuan,MIPA,75,75,78,5,0,500000,500000,Milik Sendiri,190,Ubin,1,,,,,
+Perempuan,Analisis Pengujian Laboratorium,80,83,82,5,2250000,0,2250000,Menumpang,150,Ubin,1,,,,,
+Laki-laki,IPA,847,884,892,7,2917744,0,2917744,Milik Sendiri,30,Semen Plaster,1,,,,,
+Perempuan,Administrasi Perkantoran ,,,,4,750000,500000,1250000,Milik Sendiri,70,Keramik,1,,,,,
+Laki-laki,Rekayasa Perangkat Lunak,83,87,87,5,1800000,500000,2300000,Milik Sendiri,90,Keramik,0,,,,,
+Perempuan,IPA,86,88,89,5,3000000,500000,3500000,Milik Sendiri,81,Semen Plaster,1,,,,,
+Perempuan,IPS,8274,8263,8463,3,1500000,1000000,2500000,Milik Sendiri,30,Semen Plaster,1,,,,,
+Laki-laki,IPS,885,885,876,3,70000,0,70000,Milik Sendiri,35,Kayu,1,,,,,
+Perempuan,Analisis pengujian laboratorium,78,82,80,6,0,0,0,Menumpang,48,Keramik,1,,,,,
+Laki-laki,IPS,87,80,87,4,1500000,1000000,2500000,Milik Sendiri,60,Ubin,1,,,,,
+Perempuan,Analisis pengujian laboratorium,79,93,78,5,50000,0,50000,Menumpang,86,Keramik,1,,,,,
+Laki-laki,Teknik komputer jaringan,78,78,78,1,1200000,0,1200000,Sewa Bulanan,25,Ubin,0,,,,,
+Perempuan,Tata Busana,78,77,79,4,2500000,1500000,4000000,Menumpang,60,Keramik,1,,,,,
+Laki-laki,TEKNIK KOMPUTER JARINGAN,80,84,84,6,0,0,0,Menumpang,50,Keramik,0,,,,,
+Laki-laki,Teknik Komputer Jaringan,81,82,81,4,1000000,0,1000000,Sewa Bulanan,12,Keramik,1,,,,,
+Perempuan,Analisis pengujian laboratorium,,,,5,0,250000,250000,Milik Sendiri,50,Semen Plaster,1,,,,,
+Laki-laki,Teknik Mekanik Industri,8208,8237,8145,5,15,0,15,Milik Sendiri,60,Keramik,1,,,,,
+Laki-laki,Teknik Komputer Jaringan,,,,2,0,100,100,Menumpang,21,Ubin,1,,,,,
+Perempuan,MIPA,80,82,84,5,3000000,0,3000000,Milik Sendiri,126,Ubin,0,,,,,
+Perempuan,MIPA,836,8486,8586,5,1000000,0,1000000,Milik Sendiri,48,Keramik,1,,,,,
+Perempuan,Ilmu Pengetahuan Alam,85,83,79,6,4200000,0,4200000,Milik Sendiri,25,Keramik,0,,,,,
+Laki-laki,MIPA,8563,8581,8758,5,1000000,0,1000000,Milik Sendiri,30,Keramik,1,,,,,
+Laki-laki,REKAYASA PERANGKAT LUNAK,8653,8236,8563,4,1250000,0,1250000,Milik Sendiri,30,Keramik,1,,,,,
+Perempuan,REKAYASA PERANGKAT LUNAK,86,89,,12,2000000,0,2000000,Menumpang,203,Ubin,0,,,,,
+Perempuan,MIPA ,83,85,86,2,5000000,2000000,7000000,Sewa Bulanan,30,Keramik,0,,,,,
+Perempuan,IPA,85,91,93,5,1000000,1000000,2000000,Milik Sendiri,50,Keramik,1,,,,,
+Perempuan,Teknik Komputer dan Jaringan,87,86,88,7,2000000,0,2000000,Sewa Tahunan,50,Ubin,1,,,,,
+Perempuan,Bisnis Daring Pemasaran,77,80,80,11,0,5000000,5000000,Menumpang,104,Ubin,0,,,,,
+Laki-laki,Teknik Mekanik Idustruti,80,78,80,4,250,0,250,Milik Sendiri,200,Ubin,1,,,,,
+Laki-laki,Teknik Bisnis Sepeda Motor,8072,827,835,4,4000000,0,4000000,Milik Sendiri,60,Keramik,0,,,,,
+Perempuan,IPS,8021,8257,8347,6,2000000,0,2000000,Milik Sendiri,30,Keramik,1,,,,,
+Laki-laki,IPS,791,8042,815,2,250000,0,250000,Milik Sendiri,78,Semen Plaster,1,,,,,
+Laki-laki,Teknik Kendaraan Ringan,8267,8050,8340,4,2000000,0,2000000,Milik Sendiri,60,Tanah,1,,,,,
+Perempuan,IPA,84,86,88,5,800,0,800,Milik Sendiri,50,Keramik,0,,,,,
+Perempuan,IPS,83,87,89,9,0,0,0,Milik Sendiri,83,Semen Plaster,1,,,,,
+Laki-laki,Rekayasa Perangkat Lunak,85,78,79,6,1650000,0,1650000,Milik Sendiri,50,Keramik,0,,,,,
+Perempuan,PERIKANAN,80,80,82,8,700000,0,700000,Menumpang,4,Keramik,0,,,,,
+Laki-laki,TEKNIK KOMPUTER DAN JARINGAN,885,887,897,8,2500000,0,2500000,Menumpang,45,Semen Plaster,1,,,,,
+Laki-laki,Teknik Kendaraan Ringan Otomotif,89,88,91,3,0,750000,750000,Milik Sendiri,70,Keramik,0,,,,,
+Perempuan,IPA,86,87,89,5,0,250000,250000,Milik Sendiri,100,Keramik,1,,,,,
+Laki-laki,Rekayasa Perangkat Lunak,83,86,8204,3,0,0,0,Milik Sendiri,80,Ubin,0,,,,,
+Laki-laki,TEKNIK KOMPUTER JARINGAN,78,81,83,9,0,0,0,Menumpang,96,Keramik,0,,,,,
+Perempuan,MIPA,823,865,878,5,700000,0,700000,Milik Sendiri,26,Keramik,1,,,,,
+Perempuan,Teknik komputer dan jaringan,80,81,81,4,1000000,0,1000000,Sewa Bulanan,1200,Ubin,1,,,,,
+Perempuan,MIPA,85,88,88,3,0,1400000,1400000,Milik Sendiri,102,Keramik,1,,,,,
+Perempuan,Teknik komputer jaringan,,,,6,0,200,200,Milik Sendiri,25,Keramik,1,,,,,
+Laki-laki,IPA,783,70,,2,0,0,0,Milik Sendiri,36,Keramik,1,,,,,
+Laki-laki,Manajemen,821,872,894,3,3500000,0,3500000,Sewa Bulanan,25,Keramik,1,,,,,
+Perempuan,PEMASARAN,8599,8272,8400,3,1250,1500,2750,Sewa Bulanan,40,Keramik,0,,,,,
+Laki-laki,Ilmu Pengetahuan Sosial (IPS),789,802,831,5,2000000,0,2000000,Sewa Bulanan,36,Ubin,0,,,,,
+Perempuan,IPS,,,,6,3000000,3000000,6000000,Menumpang,90,Ubin,0,,,,,
+Perempuan,Teknik Komputer dan Jaringan,84,84,87,3,750000,0,750000,Milik Sendiri,150,Keramik,1,,,,,
+Perempuan,Administrasi perkantoran,7,8,8,5,0,0,0,Menumpang,20,Keramik,0,,,,,
+Perempuan,IPA,858,878,883,6,1500000,0,1500000,Milik Sendiri,84,Keramik,1,,,,,
+Perempuan,Tata busana,78,811,834,6,700,50,750,Menumpang,12,Keramik,1,,,,,
+Laki-laki,IPA,81,84,85,3,500000,0,500000,Milik Sendiri,25,Ubin,1,,,,,
+Perempuan,IPS,83,86,87,4,750000,500000,1250000,Milik Sendiri,25,Semen Plaster,1,,,,,
+Perempuan,PERHOTELAN DAN JASA PARIWISATA ,81,80,79,5,2000000,0,2000000,Menumpang,80,Keramik,1,,,,,
+Perempuan,Akuntansi,78,82,82,5,0,0,0,Menumpang,35,Keramik,1,,,,,
+Perempuan,bisnis Daring dan Pemasaran,82,86,87,6,2500000,0,2500000,Menumpang,50,Ubin,1,,,,,
+Laki-laki,IPS,80,82,83,8,2000000,0,2000000,Menumpang,150,Keramik,0,,,,,
+Perempuan,ips,81,79,86,5,2000000,0,2000000,Menumpang,32,Keramik,0,,,,,
+Perempuan,IPS,85,84,87,3,2000000,0,2000000,Milik Sendiri,12,Semen Plaster,1,,,,,
+Perempuan,Ilmu Pengetahuan Sosial (IPS),78,85,87,2,0,0,0,Milik Sendiri,35,Keramik,0,,,,,
+Perempuan,AKUNTANSI KEUANGAN LEMBAGA,7502786,7714,81076,7,0,500000,500000,Milik Sendiri,50,Ubin,1,,,,,
+Laki-laki,ATR(Agribisnis Ternak Ruminansia) ,,,,4,0,500,500,Menumpang,6,Semen Plaster,0,,,,,
+Laki-laki,Teknik Komputer dan Jaringan,83,81,80,2,0,800000,800000,Milik Sendiri,60,Semen Plaster,0,,,,,
+Perempuan,IPA,8671,8957,9228,9,2500000,0,2500000,Milik Sendiri,150,Keramik,1,,,,,
+Laki-laki,TKJ,8391,847,,4,1500000,0,1500000,Milik Sendiri,70,Semen Plaster,1,,,,,
+Perempuan,IPA,824,86,852,4,2000000,800000,2800000,Sewa Tahunan,60,Keramik,1,,,,,
+Laki-laki,Otomatisasi Tata Kelola Perkantoran,84,83,86,4,2300000,0,2300000,Milik Sendiri,72,Keramik,0,,,,,
+Laki-laki,Teknik Kendaraan Ringan Otomotif,8409,8373,8518,5,3000000,0,3000000,Milik Sendiri,50,Keramik,1,,,,,
+Laki-laki,IPA,8029,8129,8314,4,0,1000000,1000000,Sewa Tahunan,70,Keramik,0,,,,,
+Perempuan,MIPA,796,786,,5,1000000,0,1000000,Milik Sendiri,846,Keramik,1,,,,,
+Perempuan,IPS ,84,87,87,4,2000000,0,2000000,Milik Sendiri,50,Keramik,0,,,,,
+Perempuan,Teknik instalasi tenaga listrik ,82,84,86,3,50000,0,50000,Milik Sendiri,70,Ubin,1,,,,,
+Laki-laki,Teknik Komputer Jaringan,913,936,911,3,900000,0,900000,Milik Sendiri,30,Semen Plaster,1,,,,,
+Laki-laki,Tkro otpmotif,78,81,80,4,20,0,20,Milik Sendiri,5,Semen Plaster,1,,,,,
+Perempuan,IPA,877,84,846,4,0,1250000,1250000,Sewa Bulanan,25,Ubin,1,,,,,
+Perempuan,MIPA,858,875,898,8,3000000,0,3000000,Menumpang,96,Ubin,0,,,,,
+Perempuan,MIPA,8479,8564,87,4,1500000,0,1500000,Milik Sendiri,72,Keramik,0,,,,,
+Laki-laki,Teknik komputer jaringan,815,801,792,6,0,0,0,Menumpang,3,Keramik,1,,,,,
+Laki-laki,IPA MATEMATIKA,82,82,82,4,1000000,0,1000000,Milik Sendiri,60,Tanah,1,,,,,
+Perempuan,Soshum ,84,84,84,5,3750000,0,3750000,Menumpang,62,Keramik,0,,,,,
+Perempuan,Rekayasa Perangkat Lunak,88,87,81,6,50000,0,50000,Milik Sendiri,49,Keramik,1,,,,,
+Perempuan,Rekayasa Perangkat Lunak,88,85,79,12,50000,0,50000,Milik Sendiri,126,Keramik,1,,,,,
+Perempuan,Otomatisasi Tata Kelola Perkantoran ,792,797,80,4,4300000,0,4300000,Sewa Tahunan,90,Keramik,0,,,,,
+Perempuan,TEKNIK PERANCANGAN GAMBAR MESIN,813,835,862,4,3000000,0,3000000,Menumpang,30,Kayu,1,,,,,
+Perempuan,IPS,826,89,84,7,700000,500000,1200000,Menumpang,50,Ubin,1,,,,,
+Perempuan,IPS,84,87,89,2,4000000,0,4000000,Sewa Bulanan,50,Keramik,1,,,,,
+Perempuan,IPS,87,89,90,4,0,0,0,Milik Sendiri,10,Kayu,0,,,,,
+Perempuan,Ipa,80,80,84,4,2000000,0,2000000,Milik Sendiri,50,Ubin,1,,,,,
+Laki-laki,Marketing,79,79,80,6,1500000,0,1500000,Sewa Bulanan,25,Ubin,0,,,,,
+Perempuan,Teknik Komputer Dan Jaringan,,,,4,1000,500,1500,Milik Sendiri,0,Kayu,1,,,,,
+Perempuan,MULTIMEDIA,84,84,85,4,1000000,0,1000000,Milik Sendiri,54,Semen Plaster,1,,,,,
+Laki-laki,Akuntansi,7645,8344,8046,4,0,0,0,Sewa Bulanan,30,Ubin,1,,,,,
+Laki-laki,Teknik Komputer dan Jaringan,79,79,81,3,2500000,0,2500000,Milik Sendiri,75,Semen Plaster,1,,,,,
+Laki-laki,Usaha Perjalanan Wisata,83,865,87,4,900000,0,900000,Milik Sendiri,40,Ubin,0,,,,,
+Laki-laki,Akuntansi ,77,65,82,4,700000,0,700000,Milik Sendiri,50,Ubin,0,,,,,
+Perempuan,IPS,88,89,89,2,250000,500000,750000,Sewa Bulanan,25,Ubin,0,,,,,
+Laki-laki,Ips,81,76,77,3,0,0,0,Sewa Tahunan,60,Keramik,1,,,,,
+Perempuan,Akuntansi,83,85,80,6,2000000,0,2000000,Menumpang,600,Keramik,0,,,,,
+Perempuan,Akutansj dan keuangan lembaga,8617,851,8556,5,3000000,0,3000000,Milik Sendiri,40,Keramik,0,,,,,
+Perempuan,Akuntansi dan Keuangan Lembaga,9242,9327,9291,6,1250000,0,1250000,Menumpang,40,Ubin,1,,,,,
+Perempuan,ADMINISTRASI PERKANTORAN,80,78,80,5,100000,60000,160000,Milik Sendiri,45,Ubin,1,,,,,
+Perempuan,MIPA,791,7473,8173,5,2000000,0,2000000,Milik Sendiri,48,Keramik,0,,,,,
+Laki-laki,ANIMASI,,,,5,1000000,250000,1250000,Milik Sendiri,70,Keramik,1,,,,,
+Perempuan,Teknik Komputer Jaringan,84,84,81,5,1620000,0,1620000,Menumpang,2,Kayu,0,,,,,
+Laki-laki,ELEKTRONIKA,90,89,89,6,10,1000000,1000010,Milik Sendiri,60,Keramik,1,,,,,
+Perempuan,Matematika dan ilmu alam (MIPA),869,8585,885,5,2000000,0,2000000,Milik Sendiri,125,Keramik,0,,,,,
+Perempuan,Rekayasa perangkat lunak ,80,80,79,4,500000,0,500000,Milik Sendiri,7,Keramik,1,,,,,
+Perempuan,Akuntansi,8175,80,8371,4,1000000,0,1000000,Sewa Bulanan,30,Ubin,1,,,,,
+Laki-laki,Otomatisasi dan Tata Kelola Perkantoran,8123,81,82,4,350000,0,350000,Menumpang,53,Keramik,1,,,,,
+Perempuan,Teknologi Komputer & Jaringan,815,858,868,2,1500000,1000000,2500000,Milik Sendiri,5,Keramik,1,,,,,
+Perempuan,AKUNTANSI KEUANGAN DAN LEMBAGA,80,848,8396,3,0,500000,500000,Menumpang,54,Keramik,0,,,,,
+Perempuan,IPS,805,830,843,5,1500000,0,1500000,Menumpang,90,Keramik,0,,,,,
+Perempuan,Akuntansi,8138,8677,8638,4,1000000,700000,1700000,Menumpang,84,Keramik,1,,,,,
+Perempuan,IPA,8,8,8,7,500000,0,500000,Menumpang,60,Ubin,1,,,,,
+Perempuan,IPS,878,868,901,4,2100000,0,2100000,Sewa Bulanan,27,Ubin,1,,,,,
+Perempuan,Teknik Komputer Jaringan,836,870,880,5,3000000,0,3000000,Menumpang,200,Keramik,1,,,,,
+Perempuan,REKAYASA PERANGKAT LUNAK,8817,8550,8580,5,1500000,1250000,2750000,Menumpang,56,Keramik,1,,,,,
+Laki-laki,Otomotif,76,80,79,4,1500000,1500000,3000000,Milik Sendiri,50,Semen Plaster,0,,,,,
+Perempuan,Otomatisasi Tata Kelola Perkantoran,,,,4,3500000,0,3500000,Sewa Tahunan,25,Ubin,1,,,,,
+Laki-laki,MIPA,,,,4,0,3000000,3000000,Sewa Bulanan,0,Keramik,0,,,,,
+Perempuan,Akuntansi Keuangan dan Lembaga,90,89,90,4,2000000,0,2000000,Sewa Tahunan,32,Keramik,1,,,,,
+Perempuan,akuntansi,82,81,83,6,1000000,0,1000000,Milik Sendiri,136,Ubin,0,,,,,
+Perempuan,IPA,8271,8435,86,3,0,0,0,Menumpang,77,Keramik,1,,,,,
+Laki-laki,Teknik Komputer dan Jaringan,8025,7663,84,6,2000000,0,2000000,Milik Sendiri,140,Keramik,1,,,,,
+Perempuan,IPA,83,85,87,4,0,1500000,1500000,Sewa Bulanan,38,Keramik,1,,,,,
+Laki-laki,Teknik Elektronika Industri,8083,826,836,5,2800000,0,2800000,Milik Sendiri,30,Kayu,1,,,,,
+Perempuan,MIPA,83,86,88,4,1000000,0,1000000,Milik Sendiri,90,Semen Plaster,0,,,,,
+Laki-laki,TEKNIK KOMPUTER JARINGAN (TKJ),85,86,86,3,800000,0,800000,Milik Sendiri,70,Keramik,1,,,,,
+Perempuan,Manajemen perkantoran,832,842,868,5,50000,800000,850000,Sewa Bulanan,8,Keramik,1,,,,,
+Perempuan,IPS,87,88,90,4,1500000,0,1500000,Sewa Bulanan,50,Keramik,0,,,,,
+Laki-laki,MIPA,795,812,821,6,1000000,0,1000000,Milik Sendiri,200,Semen Plaster,1,,,,,
+Laki-laki,TEKNIK KENDARAAN RINGAN,81,81,79,3,300000,100000,400000,Sewa Bulanan,10,Keramik,0,,,,,
+Perempuan,Otomatisasi Tata Kelola Perkantoran,872,8840,878,4,2000000,0,2000000,Sewa Bulanan,16,Keramik,0,,,,,
+Laki-laki,TEKNIK KOMPUTER DAN JARINGAN,7964,84,5,2,2500000,0,2500000,Menumpang,800,Semen Plaster,1,,,,,
+Laki-laki,OTKP/PERKANTORAN,7781,749,7527,7,0,1.00E+13,1E+13,Milik Sendiri,38,Ubin,1,,,,,
+Perempuan,Bisnis Daring pemasaran,8325,85,87,4,1000000,0,1000000,Milik Sendiri,44,Ubin,0,,,,,
+Perempuan,Multimedia,,,,2,1900000,1000000,2900000,Menumpang,60,Kayu,0,,,,,
+Perempuan,MIPA,840625,8325,8593,5,2400000,0,2400000,Menumpang,30,Semen Plaster,1,,,,,
+Perempuan,IPS,84625,820625,846875,4,3500000,0,3500000,Milik Sendiri,60,Ubin,0,,,,,
+Perempuan,MIPA,864,85,87,6,1500000,0,1500000,Menumpang,80,Keramik,1,,,,,
+Perempuan,AKUNTANSI ,82,84,85,7,27500000,0,27500000,Sewa Bulanan,90,Keramik,1,,,,,
+Laki-laki,Rekayasa Perangkat Lunak,94235,7708,8720,8,3000000,0,3000000,Milik Sendiri,118,Keramik,1,,,,,
+Perempuan,Bisnis Konstruksi dan Properti,8190,816,867,5,2500000,0,2500000,Menumpang,52,Ubin,0,,,,,
+Laki-laki,ipa,75,80,80,3,500000,0,500000,Milik Sendiri,1362,Semen Plaster,1,,,,,
+Laki-laki,TEKNIK KOMPUTER DAN JARINGAN,,,,3,1750000,750000,2500000,Milik Sendiri,25,Keramik,1,,,,,
+Perempuan,IPS,76,80,71,5,750000,0,750000,Milik Sendiri,50,Semen Plaster,1,,,,,
+Laki-laki,IPA,79,7,7,5,0,900000,900000,Milik Sendiri,72,Keramik,1,,,,,
+Laki-laki,MATEMATIKA IPA,848,864,884,5,2000000,0,2000000,Sewa Tahunan,6,Semen Plaster,1,,,,,
+Perempuan,IPS,85,90,905,4,5000000,0,5000000,Milik Sendiri,200,Ubin,0,,,,,
+Perempuan,IPS,85,94,85,6,50000,0,50000,Menumpang,21,Keramik,1,,,,,
+Perempuan,IPS,8584,8784,902,5,2000000,0,2000000,Milik Sendiri,70,Keramik,1,,,,,
+Perempuan,MIPA,875,903,92,4,3000000,0,3000000,Milik Sendiri,36,Keramik,1,,,,,
+Laki-laki,Teknik komputer jaringan,,,,5,500000,800000,1300000,Sewa Bulanan,200,Keramik,0,,,,,
+Laki-laki,Keagamaan,76,80,71,4,2500000,2200000,4700000,Sewa Bulanan,25,Keramik,1,,,,,
+Laki-laki,Akuntansi,87,91,90,3,0,450000,450000,Milik Sendiri,90,Keramik,0,,,,,
+Laki-laki,MULTIMEDIA,81,87,88,3,1000000,0,1000000,Milik Sendiri,30,Kayu,1,,,,,
+Perempuan,MIPA,84,84,86,4,0,1000000,1000000,Menumpang,90,Keramik,1,,,,,
+Perempuan,Akuntansi,84,85,95,5,2000000,0,2000000,Milik Sendiri,66,Keramik,0,,,,,
+Laki-laki,MULTIMEDIA,83,84,84,4,2500000,0,2500000,Sewa Tahunan,50,Semen Plaster,0,,,,,
+Perempuan,IPS,8613,8847,908,4,2500000,0,2500000,Milik Sendiri,60,Keramik,0,,,,,
+Laki-laki,IPS,81,81,82,3,500000,0,500000,Milik Sendiri,36,Keramik,1,,,,,
+Perempuan,IPS,8521,8678,905,3,1000000,0,1000000,Milik Sendiri,50,Kayu,1,,,,,
+Perempuan,IPS,84,84,86,4,1500000,0,1500000,Milik Sendiri,50,Ubin,0,,,,,
+Laki-laki,AKUNTANSI,,,,4,2300000,3000000,5300000,Milik Sendiri,24,Keramik,0,,,,,
+Perempuan,Akutansi Dan Keuangan Lembaga,83,84,85,5,500000,0,500000,Menumpang,40,Ubin,1,,,,,
+Perempuan,Akuntansi dan keuangan,83,84,,3,0,0,0,Milik Sendiri,42,Ubin,0,,,,,
+Perempuan,Akutansi,80,82,83,5,2000000,1500000,3500000,Milik Sendiri,24,Keramik,1,,,,,
+Laki-laki,Teknik Komputer dan Jaringan,86,86,87,5,2000000,500000,2500000,Milik Sendiri,50,Semen Plaster,0,,,,,
+Laki-laki,AKUNTANSI DAN KEUANGAN LEMBAGA,80,80,80,8,0,1400000,1400000,Menumpang,36,Ubin,1,,,,,
+Perempuan,IPA,81,82,84,5,2000000,0,2000000,Milik Sendiri,72,Kayu,1,,,,,
+Laki-laki,Manajemen Perkantoran,78,80,83,4,2000000,0,2000000,Menumpang,48,Ubin,1,,,,,
+Perempuan,IPS,,,,6,1500000,0,1500000,Milik Sendiri,25,Keramik,1,,,,,
+Perempuan,IPA,8607,8606,8726,6,1500000,0,1500000,Menumpang,150,Keramik,1,,,,,
+Perempuan,IPA,8471,846,8633,6,750000,0,750000,Menumpang,25,Kayu,1,,,,,
+Perempuan,Multimedia,82,81,84,4,0,0,0,Milik Sendiri,21,Keramik,1,,,,,
+Perempuan,MIPA,8093,8386,854,3,500000,1600000,2100000,Milik Sendiri,34,Tanah,0,,,,,
+Perempuan,IPA,81,84,86,3,4000000,0,4000000,Sewa Tahunan,45,Ubin,0,,,,,
+Perempuan,Otomatisasi Tata Kelola Perkantoran,,,,6,500000,0,500000,Menumpang,72,Keramik,1,,,,,
+Laki-laki,Teknik Kendaraan Ringan,8167,,8313,3,50000,0,50000,Milik Sendiri,12,Keramik,1,,,,,
+Perempuan,Otomatisasi tata kelola perkantoran,82,84,85,3,0,1000000,1000000,Sewa Bulanan,50,Semen Plaster,0,,,,,
+Laki-laki,MIPA,83,84,86,3,500000,0,500000,Menumpang,35,Keramik,0,,,,,
+Perempuan,AKUNTANSI,81,80,80,5,3000000,0,3000000,Sewa Bulanan,40,Keramik,0,,,,,
+Perempuan,IPS,82,84,86,4,0,0,0,Milik Sendiri,5000,Keramik,1,,,,,
+Perempuan,Mipa,,,,7,2000000,250000,2250000,Milik Sendiri,48,Keramik,1,,,,,
+Laki-laki,Otomotif,90,92,86,4,80000,50000,130000,Milik Sendiri,12,Keramik,0,,,,,
+Perempuan,IPS ,865,878,894,5,2500000,0,2500000,Milik Sendiri,39,Kayu,1,,,,,
+Perempuan,IPA,84,873,882,2,0,750000,750000,Milik Sendiri,100,Keramik,1,,,,,
+Perempuan,Teknik Komputer dan Jaringan,82,83,84,5,1000000,0,1000000,Milik Sendiri,20,Keramik,0,,,,,
+Perempuan,PEMINATAN MATEMATIKA DAN ILMU PENGETAHUAN ALAM,84,86,88,4,800000,700000,1500000,Milik Sendiri,70,Keramik,1,,,,,
+Perempuan,MIPA,83,87,,3,20000,0,20000,Milik Sendiri,72,Keramik,0,,,,,
+Perempuan,MIPA,,,,3,0,0,0,Milik Sendiri,42,Keramik,1,,,,,
+Perempuan,MIPA ,,,,5,1250000,0,1250000,Milik Sendiri,25,Keramik,1,,,,,
+Perempuan,Mipa ,83,84,86,3,1500000,0,1500000,Milik Sendiri,72,Semen Plaster,1,,,,,
+Perempuan,TEKNIK KOMPUTER DAN JARINGAN ,85,89,8859,4,0,0,0,Milik Sendiri,70,Ubin,1,,,,,
+Laki-laki,TEKNIK ELEKTRONIKA INDUSTRI,8364,8457,8539,7,750000,0,750000,Milik Sendiri,48,Keramik,0,,,,,
+Perempuan,mipa,,,,3,0,500000,500000,Milik Sendiri,50,Semen Plaster,1,,,,,
+Perempuan,IPA,81,88,88,4,1500000,0,1500000,Milik Sendiri,80,Keramik,1,,,,,
+Perempuan,IPA,81,87,85,4,750000,750000,1500000,Milik Sendiri,25,Kayu,0,,,,,
+Perempuan,Ipa,92,93,92,2,0,0,0,Milik Sendiri,96,Ubin,0,,,,,
+Perempuan,MIPA,8421,86,8871,4,1500000,0,1500000,Milik Sendiri,59,Semen Plaster,1,,,,,
+Perempuan,IPS,86,90,92,3,500000,0,500000,Sewa Bulanan,30,Ubin,0,,,,,
+Perempuan,Perbankan Dan Keuangan Mikro,8562,88,9010,5,2500000,0,2500000,Milik Sendiri,172,Keramik,1,,,,,
+Perempuan,Akuntansi,83,827,844,3,1000000,0,1000000,Milik Sendiri,40,Keramik,1,,,,,
+Laki-laki,IPS,8485,865,865,3,3500000,0,3500000,Milik Sendiri,50,Keramik,1,,,,,
+Perempuan,IPS,,,,5,1500000,0,1500000,Milik Sendiri,8,Ubin,1,,,,,
+Perempuan,IPA,855,8721,8828,4,250000,0,250000,Menumpang,3,Kayu,1,,,,,
+Perempuan,Akuntansi,108050,92300,95831,5,1500000,0,1500000,Milik Sendiri,30,Keramik,1,,,,,
+Laki-laki,TEKNIK KOMPUTER DAN JARINGAN,8363,8533,8755,10,0,1200000,1200000,Milik Sendiri,144,Keramik,1,,,,,
+Laki-laki,IPA fisika,77,80,82,5,3000000,0,3000000,Menumpang,54,Ubin,1,,,,,
+Perempuan,Teknik Instalasi Tenaga Listrik,814,856,883,4,4500000,0,4500000,Sewa Bulanan,15,Ubin,1,,,,,
+Perempuan,IPS,84,84,85,5,2400000,0,2400000,Milik Sendiri,40,Keramik,0,,,,,
+Laki-laki,IPS,,8595,,3,1700000,0,1700000,Menumpang,45,Keramik,1,,,,,
+Perempuan,Administrasi perkantoran,84,80,80,4,1500000,1250001,2750001,Sewa Bulanan,30,Ubin,1,,,,,
+Perempuan,MIPA,83,85,,3,0,0,0,Milik Sendiri,63,Ubin,0,,,,,
+Laki-laki,PEMASARAN,80,81,81,5,0,0,0,Sewa Bulanan,38,Ubin,1,,,,,
+Perempuan,Administrasi Perkantoran,891,901,911,5,500,0,500,Milik Sendiri,18,Semen Plaster,0,,,,,
+Perempuan,Analisis Pengujian Laboratorium,79,81,83,4,70000,0,70000,Milik Sendiri,45,Tanah,1,,,,,
+Perempuan,Rekayasa Perangkat Lunak,79,86,88,6,500000,0,500000,Milik Sendiri,54,Ubin,1,,,,,
+Perempuan,Bisnis Daring dan Pemasaran,84,86,86,5,800000,0,800000,Menumpang,36,Keramik,0,,,,,
+Laki-laki,Multimedia,,,,5,0,50000,50000,Milik Sendiri,70,Keramik,1,,,,,
+Perempuan,MIPA,80,83,84,9,1750000,300000,2050000,Menumpang,75,Kayu,1,,,,,
+Laki-laki,IPS,,,,7,0,1000000,1000000,Menumpang,150,Keramik,0,,,,,
+Laki-laki,MULTIMEDIA,839,8425,8487,6,0,0,0,Milik Sendiri,69,Keramik,1,,,,,
+Perempuan,Akuntansi & Keuangan Lembaga,86,85,84,2,0,2500000,2500000,Milik Sendiri,99,Keramik,1,,,,,
+Perempuan,MIPA,83,82,86,5,0,1500000,1500000,Menumpang,30,Keramik,1,,,,,
+Laki-laki,MIPA,80,84,86,3,0,1000000,1000000,Milik Sendiri,110,Keramik,1,,,,,
+Perempuan,Akuntansi,80,80,80,5,3500000,0,3500000,Milik Sendiri,200,Ubin,1,,,,,
+Laki-laki,IPS,8507,8940,8833,3,0,0,0,Milik Sendiri,25,Tanah,1,,,,,
+Perempuan,IPS,82,84,84,4,150000,0,150000,Milik Sendiri,25,Keramik,1,,,,,
+Perempuan,IPS,,,,3,100000,0,100000,Milik Sendiri,50,Tanah,1,,,,,
+Laki-laki,Teknik Mesin,80,85,87,5,500000,500000,1000000,Milik Sendiri,80,Ubin,1,,,,,
+Laki-laki,Teknik Instalasi Tenaga Listrik,90,98,88,4,1600000,0,1600000,Milik Sendiri,43,Keramik,0,,,,,
+Perempuan,Teknik Komputer dan Jaringan,81,85,85,5,2500000,0,2500000,Milik Sendiri,50,Keramik,1,,,,,
+Laki-laki,Ips,81,76,77,3,0,0,0,Sewa Tahunan,60,Keramik,0,,,,,
+Perempuan,Akutansi dan Lembaga Keuangan,86,87,84,4,1000000,0,1000000,Sewa Bulanan,25,Keramik,0,,,,,
+Laki-laki,Teknologi Komputer Jaringan,8020,8389,8439,4,3000000,0,3000000,Menumpang,50,Keramik,0,,,,,
+Perempuan,Multimedia,758,84,835,5,3000000,0,3000000,Menumpang,30,Semen Plaster,0,,,,,
+Perempuan,TKJ,838,829,859,8,1500000,0,1500000,Milik Sendiri,96,Keramik,1,,,,,
+Laki-laki,Teknik Kendaraan Ringan,81,82,76,6,3000000,0,3000000,Milik Sendiri,60,Keramik,1,,,,,
+Perempuan,Ilmu Pengetahuan Alam (IPA) ,8417,8375,8542,5,450000,0,450000,Milik Sendiri,24,Semen Plaster,0,,,,,
+Laki-laki,MIPA,80,8228,8435,4,2000000,0,2000000,Milik Sendiri,200,Keramik,1,,,,,
+Laki-laki,IPA,801,856,853,5,500000,0,500000,Sewa Bulanan,16,Semen Plaster,1,,,,,
+Laki-laki,TKR ( teknik kendaraan ringan ),763,699,703,8,500000,0,500000,Milik Sendiri,86,Semen Plaster,0,,,,,
+Laki-laki,Rekayasa Perangkat lunak,8516,8827,8750,4,1000000,0,1000000,Sewa Bulanan,50,Ubin,0,,,,,
+Perempuan,IPS,84,84,83,10,500000,0,500000,Milik Sendiri,50,Ubin,1,,,,,
+Perempuan,MIPA,808,86,874,5,1500000,0,1500000,Milik Sendiri,60,Ubin,0,,,,,
+Perempuan,IPA,8352,8614,8707,11,2500000,0,2500000,Menumpang,120,Keramik,1,,,,,
+Laki-laki,Teknik Bisnis Sepeda Motor,,,,3,2000000,400000,2400000,Milik Sendiri,54,Keramik,1,,,,,
+Laki-laki,IPA,84,85,85,5,500000,0,500000,Milik Sendiri,40,Kayu,0,,,,,
+Perempuan,TATA BUSANA,814,845,84,4,500000,750000,1250000,Menumpang,35,Keramik,0,,,,,
+Laki-laki,IPA,801,856,853,5,500000,0,500000,Sewa Bulanan,16,Semen Plaster,0,,,,,
+Laki-laki,Ilmu pengetahuan sosial,82,80,82,7,1000000,0,1000000,Menumpang,10,Semen Plaster,1,,,,,
+Perempuan,IPS,80,82,82,3,300000,0,300000,Milik Sendiri,32,Keramik,1,,,,,
+Perempuan,TKJ (Teknik Komputer & Jaringan),,807,817,7,1200000,850000,2050000,Milik Sendiri,58,Kayu,0,,,,,
+Laki-laki,Teknik Kendaraan Ringan,83,84,86,6,500000,0,500000,Milik Sendiri,78,Semen Plaster,1,,,,,
+Perempuan,OTOMATISASI TATA KELOLA PERKANTORAN,85,89,88,4,0,0,0,Menumpang,100,Ubin,1,,,,,
+Perempuan,MIPA,81,83,84,4,500000,0,500000,Milik Sendiri,0,Semen Plaster,0,,,,,
+Perempuan,Administrasi perkantoran,86,85,89,8,0,4100000,4100000,Sewa Bulanan,36,Keramik,1,,,,,
+Perempuan,Akuntansi Keuangan dan Lembaga,85,85,82,5,1500000,0,1500000,Milik Sendiri,90,Keramik,1,,,,,
+Laki-laki,Teknik Komputer dan Jaringan,81,66,69,5,0,500000,500000,Milik Sendiri,9,Semen Plaster,1,,,,,
+Perempuan,IPA,96,97,96,5,500000,500000,1000000,Menumpang,54,Kayu,0,,,,,
+Perempuan,ADMINISTRASI PERKANTORAN,82,81,82,4,70000,0,70000,Milik Sendiri,41,Keramik,0,,,,,
+Perempuan,Akuntansi,83,85,87,3,2000000,0,2000000,Menumpang,50,Keramik,1,,,,,
+Perempuan,Ilmu pengetahuan sosial,79,80,85,7,25,18,43,Sewa Tahunan,21,Semen Plaster,1,,,,,
+Perempuan,IPS,,,,5,1500000,0,1500000,Sewa Bulanan,25,Keramik,1,,,,,
+Perempuan,Ips,84,85,87,4,0,1000000,1000000,Milik Sendiri,48,Ubin,0,,,,,
+Perempuan,Akuntansi dan keuangan lembaga,7612,8025,8175,7,500000,2000000,2500000,Milik Sendiri,150,Ubin,0,,,,,
+Perempuan,Administrasi Perkantoran ,84,83,85,5,0,200000,200000,Menumpang,25,Semen Plaster,1,,,,,
+Perempuan,RPL,8281,8128,8281,6,0,0,0,Menumpang,25,Keramik,1,,,,,
+Laki-laki,Otomatisasi dan Tata Kelola Perkantoran,7823,7958,8400,4,800000,0,800000,Milik Sendiri,42,Keramik,1,,,,,
+Laki-laki,Otomatisasi & Tata Kelola Perkantoran,75,81,,2,0,250000,250000,Milik Sendiri,665,Keramik,1,,,,,
+Perempuan,BISNIS DARING DAN PEMASARAN ,85,84,85,6,2000000,0,2000000,Milik Sendiri,38,Ubin,1,,,,,
+Perempuan,Multimedia,8714,8551,889,5,1500000,0,1500000,Sewa Bulanan,7,Semen Plaster,1,,,,,
+Perempuan,Bisnis daring dan pemasaran,84,85,84,5,100000,0,100000,Milik Sendiri,12,Keramik,0,,,,,
+Laki-laki,Teknik pemesinan,,,,4,0,0,0,Milik Sendiri,48,Tanah,1,,,,,
+Perempuan,Teknik Komputer Jaringan,83,76,8086,4,2500000,0,2500000,Milik Sendiri,72,Kayu,1,,,,,
+Laki-laki,Teknik komputer dan jaringan ,79,79,80,26,500000,0,500000,Menumpang,56,Ubin,0,,,,,
+Perempuan,Otomatisasi dan Tata Kelola Perkantoran,96,89,90,5,3500000,0,3500000,Milik Sendiri,60,Ubin,1,,,,,
+Perempuan,Ilmu Pengetahuan Sosial ,836,860,879,4,1000000,250000,1250000,Milik Sendiri,60,Keramik,1,,,,,
+Laki-laki,IPA,81,82,85,3,1000000,300000,1300000,Milik Sendiri,56,Keramik,1,,,,,
+Perempuan,Teknik Instalasi Tenaga Llistrik (TITL),81,80,0,6,1250000,0,1250000,Milik Sendiri,50,Ubin,0,,,,,
+Perempuan,Akuntansi,848,846,,4,0,0,0,Menumpang,30,Keramik,1,,,,,
+Perempuan,IPA,85,84,82,5,2500000,0,2500000,Milik Sendiri,48,Semen Plaster,1,,,,,
+Perempuan,Akuntansi,87,85,87,4,25000,50000,75000,Menumpang,25,Keramik,1,,,,,
+Laki-laki,Multimedia,8885,8938,8792,3,3491173,1000000,4491173,Sewa Bulanan,40,Keramik,0,,,,,
+Perempuan,Otomatisasi Tata Kelola Perkantoran,8175,86,85,4,4800000,0,4800000,Milik Sendiri,21,Keramik,0,,,,,
+Perempuan,Teknik komputer jaringan ,83,82,85,5,1500000,0,1500000,Milik Sendiri,35,Keramik,1,,,,,
+Perempuan,IPS,8685,8921,,4,500000,0,500000,Menumpang,25,Keramik,1,,,,,
+Laki-laki,Teknik Kendaraan Ringan,75,75,75,4,2000000,0,2000000,Sewa Bulanan,50,Keramik,0,,,,,
+Laki-laki,IPS,8514,8635,88,4,0,1000000,1000000,Menumpang,60,Ubin,1,,,,,
+Laki-laki,TEKNIK PEMESINAN,,,,4,0,0,0,Milik Sendiri,48,Tanah,0,,,,,
+Laki-laki,OTOMOTIF,829,803,813,4,2000000,0,2000000,Milik Sendiri,100,Keramik,1,,,,,
+Perempuan,IPS,82,84,89,3,0,3860000,3860000,Milik Sendiri,36,Ubin,0,,,,,
+Perempuan,Akuntansi,82,87,,5,500000,0,500000,Milik Sendiri,80,Keramik,1,,,,,
+Laki-laki,Multimedia,,,,5,3000000,0,3000000,Sewa Tahunan,60,Keramik,1,,,,,
+Laki-laki,Teknik Elektronika,85,87,87,4,3800000,0,3800000,Sewa Bulanan,60,Ubin,0,,,,,
+Perempuan,Multimedia,87,78,85,4,0,0,0,Sewa Tahunan,65,Ubin,1,,,,,
+Perempuan,Teknik Pemeliharaan Mekanik Industri,8020,7854,8062,3,1500000,0,1500000,Sewa Bulanan,25,Keramik,1,,,,,
+Laki-laki,Teknik bisnis sepeda motor,76,77,76,5,3800000,0,3800000,Menumpang,25,Ubin,0,,,,,
+Perempuan,IPA,83,82,86,4,650000,250000,900000,Milik Sendiri,72,Keramik,1,,,,,
+Laki-laki,Manajemen Pemasaran,83,80,80,5,1500000,0,1500000,Milik Sendiri,25,Ubin,1,,,,,
+Laki-laki,IPS,81,90,89,4,2200000,400000,2600000,Milik Sendiri,512,Keramik,1,,,,,
+Perempuan,Otomatisasi dan tata kelola perkantoran,8436,846,8756,6,2500000,0,2500000,Milik Sendiri,21,Keramik,1,,,,,
+Perempuan,Bisnis Daring dan Pemasaran,85,85,86,3,0,0,0,Menumpang,25,Keramik,0,,,,,
+Perempuan,Mipa,895,8864,8985,5,1500000,0,1500000,Milik Sendiri,70,Semen Plaster,1,,,,,
+Laki-laki,Multimedia,85,82,86,4,2500000,0,2500000,Milik Sendiri,30,Ubin,1,,,,,
+Perempuan,IPA,8642,8664,8842,4,1500000,0,1500000,Milik Sendiri,36,Kayu,1,,,,,
+Perempuan,MIPA,88,88,88,7,0,0,0,Milik Sendiri,60,Keramik,0,,,,,
+Perempuan,Ips,84,88,88,5,3500000,0,3500000,Menumpang,100,Ubin,0,,,,,
+Laki-laki,Rekayasa Perangkat Lunak ( RPL ),8017,8269,8344,5,1900000,0,1900000,Sewa Tahunan,50,Keramik,0,,,,,
+Laki-laki,IPS,81,83,83,3,0,500000,500000,Milik Sendiri,48,Keramik,1,,,,,
+Laki-laki,IPS,79,81,82,5,1200000,0,1200000,Milik Sendiri,60,Semen Plaster,1,,,,,
+Laki-laki,Multimedia,85,83,85,5,3500000,0,3500000,Milik Sendiri,40,Keramik,1,,,,,
+Laki-laki,IPA,80,77,82,3,1500000,0,1500000,Milik Sendiri,25,Semen Plaster,0,,,,,
+Laki-laki,IPS,83,89,90,5,1000000,0,1000000,Menumpang,120,Keramik,0,,,,,
